@@ -1,0 +1,7 @@
+district,tree_tercile,households,median_trees,median_coffee_ac,median_yield,median_ratio_hh,median_ratio_net
+mukono,few,99,9.0,0.5,140.0,21.7,15.2
+mukono,middle,98,20.0,1.0,183.3,25.5,18.4
+mukono,many,98,50.0,1.0,200.0,35.7,32.1
+nakaseke,few,66,4.0,1.0,75.0,27.0,11.5
+nakaseke,middle,66,6.0,1.0,141.9,32.9,18.6
+nakaseke,many,66,20.0,1.0,82.2,20.0,13.4

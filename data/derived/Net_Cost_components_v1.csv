@@ -1,0 +1,7 @@
+,district,labour_hired,inputs,plot_extras,land_rent,rehab,cost_central,cost_low,cost_all_labour
+mean,mukono,1353604.0,144492.0,25535.0,0.0,311.0,1523942.0,1439198.0,2220746.0
+mean,nakaseke,2039015.0,257887.0,28097.0,66200.0,17594.0,2408793.0,2288749.0,3236040.0
+median,mukono,739231.0,0.0,0.0,0.0,0.0,855500.0,812750.0,1507231.0
+median,nakaseke,536923.0,0.0,0.0,0.0,0.0,972400.0,854308.0,1899375.0
+share_HH_with_cost_%,mukono,84.0,34.0,27.0,0.0,2.0,84.0,84.0,99.0
+share_HH_with_cost_%,nakaseke,83.0,48.0,19.0,4.0,47.0,88.0,88.0,100.0

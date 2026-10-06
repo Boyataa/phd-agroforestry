@@ -1,0 +1,25 @@
+variable,n,Mukono,Nakaseke,All,p (district)
+Household size (resident members),597,5.0 [3.0-8.0],5.0 [3.0-6.0],5.0 [3.0-7.0],0.003**
+Adults,597,2.0 [1.0-2.0],2.0 [1.0-3.0],2.0 [1.0-3.0],0.917
+Children,597,3.0 [2.0-5.0],3.0 [2.0-4.0],3.0 [2.0-4.0],0.001***
+Dependency ratio,597,2.0 [1.0-4.0],1.5 [1.0-2.8],2.0 [1.0-3.0],0.000***
+Female household head (%),596,54.7,50.7,52.7,0.362
+Female respondent (%),595,62.5,51.5,57.0,0.009**
+"Respondent age (years, class mid-point)",594,55.0 [45.0-65.0],55.0 [45.0-65.0],55.0 [45.0-65.0],0.012*
+Respondent secondary education or higher (%),596,25.7,43.3,34.6,0.000***
+Respondent married (%),596,57.4,68.7,63.1,0.006**
+Farming experience (years),592,30.0 [17.0-41.0],20.0 [12.0-27.0],20.0 [15.0-37.2],0.000***
+Land owned (acres),592,2.0 [1.0-3.0],2.0 [1.5-4.0],2.0 [1.0-3.6],0.000***
+Coffee area (acres),593,1.0 [0.5-1.5],1.0 [0.9-2.0],1.0 [0.5-2.0],0.000***
+Owns land (%),589,100.0,94.2,97.1,0.000***
+Trees on farm (number),493,20.0 [10.0-46.0],6.0 [5.0-17.0],15.0 [6.0-30.0],0.000***
+Coffee system includes trees (%),569,99.0,86.1,92.8,0.000***
+Access to credit (%),591,10.5,5.8,8.1,0.052
+Member of farmer group/project (%),592,29.4,13.2,21.3,0.000***
+Contact with extension officer (%),591,7.4,18.6,13.0,0.000***
+Saves for emergencies (%),508,37.4,65.9,49.4,0.000***
+Number of cash income sources,597,2.0 [2.0-3.0],2.0 [2.0-3.0],2.0 [2.0-3.0],0.282
+Annual income incl. in-kind (UGX),597,5.54M [3.51M-8.36M],3.90M [2.69M-6.41M],4.68M [2.93M-7.52M],0.000***
+Household-size living income benchmark (UGX/yr),597,21.29M [12.80M-29.77M],19.02M [12.58M-23.42M],19.49M [12.80M-27.27M],0.000***
+Income as % of household benchmark,597,26.5 [18.9-39.9],20.1 [15.4-37.4],23.7 [16.8-38.4],0.000***
+Below reference benchmark (%),597,92.6,98.0,95.3,0.003**

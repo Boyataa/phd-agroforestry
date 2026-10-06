@@ -1,0 +1,43 @@
+step,rows_affected,note
+1 Excel repair,600,start: restored full ISO timestamp (+03:00) from KoBo export
+1 Excel repair,600,end: restored full ISO timestamp (+03:00) from KoBo export
+1 Excel repair,600,Date_Time: restored full ISO timestamp (+03:00) from KoBo export
+1 Excel repair,0,Header 'n and' renamed back to Age_of_Respondent_years
+1 Excel repair,412,Details_of_household_members_age_1: age-group codes restored (e.g. 4160 -> 41_60)
+1 Excel repair,423,Details_of_household_members_age_2: age-group codes restored (e.g. 4160 -> 41_60)
+1 Excel repair,302,11_row_3_1_1/group_fd9pm11_row_3_1_1_age: age-group codes restored (e.g. 4160 -> 41_60)
+1 Excel repair,199,_row1_4_1_1/group_fd9pm11_row1_4_1_1_age: age-group codes restored (e.g. 4160 -> 41_60)
+1 Excel repair,145,11_row_5_1_1/group_fd9pm11_row_5_1_1_age: age-group codes restored (e.g. 4160 -> 41_60)
+1 Excel repair,103,11_row_6_1_1/group_fd9pm11_row_6_1_1_age: age-group codes restored (e.g. 4160 -> 41_60)
+2 Children,1,_id 561200542: 36 -> 3 (children in school = 3)
+2 Children,1,_id 561202398: 58 -> 5 (children in school = 1)
+2 Children,1,_id 589549118: 350 -> 3 (children in school = 1)
+2 Children,17,missing child count filled with number of children in school
+3 Floor area,3,implausible areas (<4 or >400 m^2) set to missing
+3 Floor area,300,Nakaseke areas converted ft^2 -> m^2
+3 Floor area,587,"floor_area_m2_model from Mukono log-linear model (n=285); coefs const=2.698, rooms=0.190, bedrooms=0.077, permanent=0.510, brick_walls=0.031, cement_floor=0.071"
+4 Income,1,"_162_a_Income_from_le_of_Robust: PMM-imputed (532 donors, 20 imputations)"
+4 Income,6,"_162_b_Income_from_Livestock: PMM-imputed (140 donors, 20 imputations)"
+4 Income,7,"_162_c_Income_from_Off_farm: PMM-imputed (81 donors, 20 imputations)"
+4 Income,4,"_162_d_Income_from_Remittances: PMM-imputed (169 donors, 20 imputations)"
+4 Income,29,"_162_e_income_from_Sale_of: PMM-imputed (265 donors, 20 imputations)"
+4 Income,2,"_162_f_Income_from_Trade: PMM-imputed (56 donors, 20 imputations)"
+4 Income,1,"_162_g_Professional: PMM-imputed (16 donors, 20 imputations)"
+4 Income,2,"_162_h_income_form_other: PMM-imputed (28 donors, 20 imputations)"
+4 Income,1,_162_a_Income_from_le_of_Robust: source list unanswered -> PMM incl. zeros (598 donors)
+4 Income,17,_162_b_Income_from_Livestock: source list unanswered -> PMM incl. zeros (577 donors)
+4 Income,17,_162_c_Income_from_Off_farm: source list unanswered -> PMM incl. zeros (576 donors)
+4 Income,17,_162_d_Income_from_Remittances: source list unanswered -> PMM incl. zeros (579 donors)
+4 Income,17,_162_e_income_from_Sale_of: source list unanswered -> PMM incl. zeros (554 donors)
+4 Income,17,_162_f_Income_from_Trade: source list unanswered -> PMM incl. zeros (581 donors)
+4 Income,17,_162_g_Professional: source list unanswered -> PMM incl. zeros (582 donors)
+4 Income,17,_162_h_income_form_other: source list unanswered -> PMM incl. zeros (581 donors)
+4 Income,1,_162_a_Income_from_le_of_Robust: set to 0 (source not listed by household)
+4 Income,436,_162_b_Income_from_Livestock: set to 0 (source not listed by household)
+4 Income,495,_162_c_Income_from_Off_farm: set to 0 (source not listed by household)
+4 Income,410,_162_d_Income_from_Remittances: set to 0 (source not listed by household)
+4 Income,289,_162_e_income_from_Sale_of: set to 0 (source not listed by household)
+4 Income,525,_162_f_Income_from_Trade: set to 0 (source not listed by household)
+4 Income,566,_162_g_Professional: set to 0 (source not listed by household)
+4 Income,553,_162_h_income_form_other: set to 0 (source not listed by household)
+4 Income,65,coffee income taken from seasonal coffee sales (Kiboko + FAQ)

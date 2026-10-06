@@ -1,0 +1,5 @@
+li_group,median trees on farm,median trees per acre,% system with trees,% planted any trees,% removed trees,% reporting tree products
+<25%,15.0,12.0,97.9,90.0,47.0,58.8
+25-50%,16.0,10.0,90.1,74.6,53.1,57.2
+50-100%,10.0,3.5,80.7,65.5,43.1,43.1
+>=100%,20.0,5.4,83.3,71.9,46.9,53.1

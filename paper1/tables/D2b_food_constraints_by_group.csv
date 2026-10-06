@@ -1,0 +1,12 @@
+food_group,Availability / seasonal,Distance / market access,No constraint,Other,Pests & diseases,Price / cannot afford,Quality / safety,Weather / drought
+cereals_1,1,8,1,4,37,8,4,4
+cooking_oil,9,30,6,8,1,39,1,0
+diary_1,10,29,2,47,10,22,36,1
+eggs_1,7,4,3,13,2,7,6,0
+fruits,5,2,2,22,19,2,1,1
+legumes_1,3,3,0,38,78,6,6,14
+non_alcoholic,8,56,6,35,5,46,16,0
+prepared_cereals,6,16,2,13,5,15,4,0
+roots_and_tubers,3,6,2,54,88,5,3,7
+starchy_fruits_1,0,4,2,18,13,1,0,3
+vegetables_1,10,4,0,7,8,5,7,0
