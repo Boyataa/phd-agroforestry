@@ -1,0 +1,39 @@
+district,slot,item,edible_g_day,purchase_g_day,price_ugx_kg,cost_ugx_day,price_basis,market_prices_n
+Mukono,1,Rice 2,300.0,300.0,3400.0,1020.0,weighed/standard,12
+Mukono,2,Bread,75.0,75.0,5500.0,412.5,weighed/standard,12
+Mukono,3,Yams,300.0,375.0,667.0,250.1,guessed local unit (values < 50% of median dropped),5
+Mukono,4,Matooke,160.0,200.0,833.0,166.6,guessed local unit (values < 50% of median dropped),5
+Mukono,5,drybeans,69.7,87.2,3500.0,305.1,weighed/standard,9
+Mukono,6,drybeans,69.7,87.2,3500.0,305.1,weighed/standard,9
+Mukono,7,Milk,60.0,60.0,2000.0,120.0,weighed/standard,5
+Mukono,8,Eggs,30.0,33.3,5667.0,188.9,per tray / 1.8 kg (assumed),6
+Mukono,9,Chicken,23.3,38.9,14000.0,544.5,weighed/standard,2
+Mukono,10,Ngege Fresh,12.0,20.0,10000.0,200.0,no usable market price - tool value kept,0
+Mukono,11,Sukuma,100.0,100.0,1000.0,100.0,not in market survey - tool value kept,0
+Mukono,12,Spring Onions,60.0,60.0,1000.0,60.0,not in market survey - tool value kept,0
+Mukono,13,Doodo,60.0,60.0,1667.0,100.0,guessed local unit (values < 50% of median dropped),6
+Mukono,14,Bbuga,60.0,60.0,1667.0,100.0,guessed local unit (values < 50% of median dropped),6
+Mukono,15,Pine Apple,60.0,75.0,4000.0,300.0,not in market survey - tool value kept,0
+Mukono,16,Pine Apple,60.0,75.0,4000.0,300.0,not in market survey - tool value kept,0
+Mukono,17,Cooking Oil,34.0,42.5,7000.0,297.5,weighed/standard,11
+Mukono,18,soda,2.0,2.0,1000.0,2.0,not in market survey - tool value kept,0
+Mukono,19,Non Alcoholic Kombucha,30.0,30.0,1000.0,30.0,not in market survey - tool value kept,0
+Nakaseke,1,Rice 2,164.1,164.1,3500.0,574.2,weighed/standard,12
+Nakaseke,2,Doughnut,67.2,67.2,3000.0,201.5,not in market survey - tool value kept,0
+Nakaseke,3,Cassava,244.2,305.2,1000.0,305.2,weighed/standard,2
+Nakaseke,4,Matooke,160.0,200.0,667.0,133.4,guessed local unit (values < 50% of median dropped),7
+Nakaseke,5,Soy,42.6,53.2,3000.0,159.6,weighed/standard,3
+Nakaseke,6,Soy,42.6,53.2,3000.0,159.6,weighed/standard,3
+Nakaseke,7,Butter,60.0,66.7,15000.0,1000.0,weighed/standard,6
+Nakaseke,8,Eggs,28.1,31.2,5556.0,173.2,per tray / 1.8 kg (assumed),9
+Nakaseke,9,beef,14.5,24.2,16000.0,387.6,weighed/standard,8
+Nakaseke,10,Mukene,12.0,20.0,1000.0,20.0,not in market survey - tool value kept,0
+Nakaseke,11,Sukuma,100.0,100.0,1000.0,100.0,not in market survey - tool value kept,0
+Nakaseke,12,Spring Onions,60.0,60.0,1000.0,60.0,not in market survey - tool value kept,0
+Nakaseke,13,Spring Onions,60.0,60.0,1000.0,60.0,not in market survey - tool value kept,0
+Nakaseke,14,Spring Onions,60.0,60.0,1000.0,60.0,not in market survey - tool value kept,0
+Nakaseke,15,Pine Apple,60.0,75.0,4000.0,300.0,not in market survey - tool value kept,0
+Nakaseke,16,Pine Apple,60.0,75.0,4000.0,300.0,not in market survey - tool value kept,0
+Nakaseke,17,Cooking Oil,34.0,42.5,7200.0,306.0,weighed/standard,10
+Nakaseke,18,soda,2.0,2.0,1000.0,2.0,not in market survey - tool value kept,0
+Nakaseke,19,Non Alcoholic Kombucha,30.0,30.0,1000.0,30.0,not in market survey - tool value kept,0

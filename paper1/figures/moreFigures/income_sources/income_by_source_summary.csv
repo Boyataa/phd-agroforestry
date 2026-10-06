@@ -1,0 +1,31 @@
+source,group,n,mean_UGX,median_UGX,pct_households_gt0,median_among_earners_UGX,share_of_mean_cash_%,share_of_mean_gross_%
+Coffee (Q162a),Mukono,297,2837787.9,1200000.0,100.0,1200000.0,54.8,35.8
+Coffee (Q162a),Nakaseke,300,2950638.0,1000000.0,99.7,1000000.0,82.2,52.8
+Coffee (Q162a),Both,597,2894496.5,1100000.0,99.8,1100000.0,66.0,42.9
+Livestock (b),Mukono,297,227328.3,0.0,24.6,500000.0,4.4,2.9
+Livestock (b),Nakaseke,300,117390.4,0.0,29.7,261005.4,3.3,2.1
+Livestock (b),Both,597,172083.1,0.0,27.1,300000.0,3.9,2.6
+Off-farm work (c),Mukono,297,129494.9,0.0,10.1,300000.0,2.5,1.6
+Off-farm work (c),Nakaseke,300,49087.7,0.0,24.0,200000.0,1.4,0.9
+Off-farm work (c),Both,597,89089.3,0.0,17.1,200000.0,2.0,1.3
+Remittances (d),Mukono,297,317348.5,0.0,32.0,500000.0,6.1,4.0
+Remittances (d),Nakaseke,300,60583.3,0.0,30.7,150000.0,1.7,1.1
+Remittances (d),Both,597,188320.8,0.0,31.3,300000.0,4.3,2.8
+Other crop sales (e),Mukono,297,759123.8,30000.0,50.5,500000.0,14.6,9.6
+Other crop sales (e),Nakaseke,300,248604.7,50000.0,53.0,250000.0,6.9,4.4
+Other crop sales (e),Both,597,502581.6,50000.0,51.8,300000.0,11.5,7.4
+Trade (f),Mukono,297,544814.8,0.0,16.2,2000000.0,10.5,6.9
+Trade (f),Nakaseke,300,126351.7,0.0,5.0,1000000.0,3.5,2.3
+Trade (f),Both,597,334531.8,0.0,10.6,1876500.0,7.6,5.0
+Professional job (g),Mukono,297,197407.4,0.0,5.1,4800000.0,3.8,2.5
+Professional job (g),Nakaseke,300,26000.0,0.0,1.0,1500000.0,0.7,0.5
+Professional job (g),Both,597,111273.0,0.0,3.0,4115000.0,2.5,1.6
+Other sources (h),Mukono,297,168858.6,0.0,9.8,500000.0,3.3,2.1
+Other sources (h),Nakaseke,300,12333.3,0.0,0.3,3700000.0,0.3,0.2
+Other sources (h),Both,597,90202.7,0.0,5.0,550000.0,2.1,1.3
+Home-grown food (in-kind),Mukono,297,2714295.9,2564259.3,99.3,2631259.0,,34.3
+Home-grown food (in-kind),Nakaseke,300,1935247.6,1953595.0,99.3,1953595.0,,34.6
+Home-grown food (in-kind),Both,597,2322814.3,2043992.7,99.3,2043992.7,,34.4
+Tree products used at home (in-kind),Mukono,297,23114.5,0.0,8.4,150000.0,,0.3
+Tree products used at home (in-kind),Nakaseke,300,61051.7,0.0,11.7,280000.0,,1.1
+Tree products used at home (in-kind),Both,597,42178.4,0.0,10.1,260000.0,,0.6

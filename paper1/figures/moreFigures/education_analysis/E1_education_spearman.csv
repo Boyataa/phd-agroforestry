@@ -1,0 +1,67 @@
+variable,district,n,rho,p,note
+Coffee sales,mukono,296,0.145,0.0126,mean rho / median p over 20 imputations
+Coffee sales,nakaseke,300,0.365,0.0,mean rho / median p over 20 imputations
+Coffee sales,all,596,0.281,0.0,mean rho / median p over 20 imputations
+Sale of other crops (Q162e),mukono,296,0.203,0.0004,mean rho / median p over 20 imputations
+Sale of other crops (Q162e),nakaseke,300,-0.077,0.1805,mean rho / median p over 20 imputations
+Sale of other crops (Q162e),all,596,0.035,0.3989,mean rho / median p over 20 imputations
+Livestock,mukono,296,0.021,0.7077,mean rho / median p over 20 imputations
+Livestock,nakaseke,300,-0.085,0.1273,mean rho / median p over 20 imputations
+Livestock,all,596,-0.042,0.2846,mean rho / median p over 20 imputations
+Off-farm employment,mukono,296,-0.07,0.2283,mean rho / median p over 20 imputations
+Off-farm employment,nakaseke,300,-0.057,0.3246,mean rho / median p over 20 imputations
+Off-farm employment,all,596,-0.059,0.1541,mean rho / median p over 20 imputations
+Trade,mukono,296,0.106,0.0675,mean rho / median p over 20 imputations
+Trade,nakaseke,300,0.062,0.2368,mean rho / median p over 20 imputations
+Trade,all,596,0.06,0.1334,mean rho / median p over 20 imputations
+Professional job,mukono,296,0.256,0.0,mean rho / median p over 20 imputations
+Professional job,nakaseke,300,0.103,0.0613,mean rho / median p over 20 imputations
+Professional job,all,596,0.162,0.0001,mean rho / median p over 20 imputations
+Remittances,mukono,296,-0.241,0.0,mean rho / median p over 20 imputations
+Remittances,nakaseke,300,-0.141,0.0147,mean rho / median p over 20 imputations
+Remittances,all,596,-0.194,0.0,mean rho / median p over 20 imputations
+Other cash income,mukono,296,0.027,0.6498,mean rho / median p over 20 imputations
+Other cash income,nakaseke,300,0.053,0.3573,mean rho / median p over 20 imputations
+Other cash income,all,596,0.008,0.8466,mean rho / median p over 20 imputations
+Total cash income,mukono,296,0.245,0.0,mean rho / median p over 20 imputations
+Total cash income,nakaseke,300,0.316,0.0,mean rho / median p over 20 imputations
+Total cash income,all,596,0.268,0.0,mean rho / median p over 20 imputations
+Home-grown food (in-kind),mukono,296,0.096,0.0993,
+Home-grown food (in-kind),nakaseke,300,-0.034,0.5632,
+Home-grown food (in-kind),all,596,-0.001,0.9859,
+Income incl. in-kind,mukono,296,0.262,0.0,mean rho / median p over 20 imputations
+Income incl. in-kind,nakaseke,300,0.247,0.0,mean rho / median p over 20 imputations
+Income incl. in-kind,all,596,0.229,0.0,mean rho / median p over 20 imputations
+"Income incl. in-kind, % of HH benchmark",mukono,296,0.199,0.0007,mean rho / median p over 20 imputations
+"Income incl. in-kind, % of HH benchmark",nakaseke,300,0.295,0.0,mean rho / median p over 20 imputations
+"Income incl. in-kind, % of HH benchmark",all,596,0.239,0.0,mean rho / median p over 20 imputations
+Net income (net v1),mukono,296,0.217,0.0002,
+Net income (net v1),nakaseke,300,0.045,0.4335,
+Net income (net v1),all,596,0.097,0.018,
+Number of cash income sources,mukono,296,0.01,0.8637,
+Number of cash income sources,nakaseke,300,-0.159,0.0057,
+Number of cash income sources,all,596,-0.102,0.0128,
+Land owned (acres),mukono,296,0.182,0.0017,
+Land owned (acres),nakaseke,296,0.015,0.8015,
+Land owned (acres),all,592,0.105,0.0106,
+Coffee area (acres),mukono,295,0.101,0.0822,
+Coffee area (acres),nakaseke,298,0.046,0.4318,
+Coffee area (acres),all,593,0.094,0.0224,
+Other crops area (acres),mukono,290,0.05,0.3964,
+Other crops area (acres),nakaseke,244,0.198,0.0018,
+Other crops area (acres),all,534,0.146,0.0007,
+Tree plantation area (acres),mukono,291,-0.001,0.9879,
+Tree plantation area (acres),nakaseke,242,-0.217,0.0007,
+Tree plantation area (acres),all,533,-0.087,0.0444,
+Trees on farm (count),mukono,295,0.137,0.0182,
+Trees on farm (count),nakaseke,198,0.027,0.7093,
+Trees on farm (count),all,493,-0.059,0.1872,
+Coffee yield (kg FAQ/acre),mukono,295,0.006,0.9178,
+Coffee yield (kg FAQ/acre),nakaseke,281,0.304,0.0,
+Coffee yield (kg FAQ/acre),all,576,0.104,0.0121,
+Farming experience (years),mukono,295,-0.143,0.0139,
+Farming experience (years),nakaseke,297,-0.089,0.1242,
+Farming experience (years),all,592,-0.143,0.0005,
+Household size,mukono,296,0.094,0.1066,
+Household size,nakaseke,300,-0.051,0.3816,
+Household size,all,596,0.004,0.9281,

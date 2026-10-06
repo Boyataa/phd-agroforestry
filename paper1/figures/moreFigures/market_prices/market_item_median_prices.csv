@@ -1,0 +1,44 @@
+food_group,item_label,unit,Mukono - Kasawo (rural),Mukono - Nakifuma (urban),Nakaseke - Kasangombe (rural),Nakaseke - Kiwoko (urban)
+Cereals,maize,kg,2650.0,2550.0,3000.0,2800.0
+Cereals,millet,kg,3250.0,3500.0,4000.0,3750.0
+Cereals,rice,kg,4000.0,3600.0,4000.0,4500.0
+Cereals,wheat,kg,3000.0,3000.0,3250.0,4625.0
+Dairy,milk,litre,3500.0,5000.0,2500.0,1800.0
+Dairy,yoghurt,kg,5000.0,6000.0,8000.0,8333.0
+Eggs,eggs,per tray,11500.0,10500.0,11500.0,11000.0
+Fish,fish,kg,,,,15000.0
+Fish,nileperch,piece,,10000.0,,
+Leafy vegetables,bbuga,kg,1667.0,1667.0,,2500.0
+Leafy vegetables,cabbage,piece,500.0,1500.0,1000.0,1200.0
+Leafy vegetables,doodo,kg,1667.0,1667.0,,3333.0
+Leafy vegetables,nakati,kg,1667.0,2000.0,,1667.0
+Legumes,cowpeas,kg,6000.0,5500.0,6000.0,5500.0
+Legumes,dried beans,kg,3500.0,3900.0,3750.0,3500.0
+Legumes,fresh beans,kg,4000.0,4000.0,,4000.0
+Legumes,groundnuts,kg,7000.0,7000.0,7000.0,6800.0
+Legumes,soybeans,kg,,3750.0,3600.0,3000.0
+Meat,beef,kg,18000.0,16500.0,18000.0,17000.0
+Meat,chicken,kg,,14500.0,,16000.0
+Meat,goat,kg,20000.0,20000.0,21000.0,20000.0
+"Oils, fats & drinks",cooking oil,litre,7000.0,7200.0,8000.0,7400.0
+"Oils, fats & drinks",margarine,kg,20000.0,22000.0,20500.0,25000.0
+"Oils, fats & drinks",soft drink 1,litre,5000.0,5808.0,5625.0,6061.0
+"Oils, fats & drinks",soft drink 2,litre,2000.0,,,4000.0
+Other vegetables,cucumber,piece,333.0,,,1000.0
+Other vegetables,onions,kg,2500.0,2500.0,2500.0,4000.0
+Other vegetables,tomatoes,kg,2500.0,1250.0,1429.0,3000.0
+Prepared cereals,bread,kg,5800.0,5500.0,5500.0,5500.0
+Prepared cereals,chapati,piece,500.0,1000.0,1000.0,1000.0
+Prepared cereals,oats,kg,3200.0,4000.0,7000.0,
+Prepared cereals,spaghetti,kg,8444.0,8667.0,7350.0,7200.0
+Roots & tubers,Irish potatoes,kg,1200.0,1200.0,2000.0,2000.0
+Roots & tubers,cassava,kg,1000.0,1500.0,1000.0,1000.0
+Roots & tubers,sweet potatoes,kg,1000.0,667.0,1333.0,2333.0
+Roots & tubers,yams,kg,1167.0,1000.0,,
+Starchy fruits & fruit,avocado,piece,292.0,550.0,292.0,1000.0
+Starchy fruits & fruit,jackfruit,piece,10000.0,5000.0,,
+Starchy fruits & fruit,mangoes,piece,500.0,1250.0,333.0,750.0
+Starchy fruits & fruit,matooke,kg,,1250.0,750.0,1667.0
+Starchy fruits & fruit,pumpkin,piece,1500.0,5000.0,,5000.0
+Starchy fruits & fruit,sweet banana,kg,2500.0,3000.0,700.0,1000.0
+Starchy fruits & fruit,watermelon,piece,4000.0,5000.0,3500.0,6500.0

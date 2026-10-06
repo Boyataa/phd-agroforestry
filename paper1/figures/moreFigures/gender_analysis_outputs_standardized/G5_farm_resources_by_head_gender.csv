@@ -1,0 +1,17 @@
+variable,district,head,n,median,q25,q75,mean,MW_p
+Land owned (acres),mukono,Male,134,2.0,1.0,4.0,2.83,0.0001
+Land owned (acres),mukono,Female,162,1.375,1.0,2.0,1.97,0.0001
+Land owned (acres),nakaseke,Male,145,3.0,2.0,6.0,4.03,0.0002
+Land owned (acres),nakaseke,Female,151,2.0,1.0,3.0,2.78,0.0002
+Coffee area (acres),mukono,Male,133,1.0,0.5,2.0,1.51,0.0032
+Coffee area (acres),mukono,Female,162,0.75,0.5,1.0,1.03,0.0032
+Coffee area (acres),nakaseke,Male,146,1.25,1.0,2.0,2.0,0.0081
+Coffee area (acres),nakaseke,Female,152,1.0,0.8,2.0,1.53,0.0081
+Trees on farm (count),mukono,Male,133,25.0,12.0,50.0,41.91,0.0008
+Trees on farm (count),mukono,Female,162,20.0,10.0,30.0,27.25,0.0008
+Trees on farm (count),nakaseke,Male,77,7.0,5.0,20.0,13.71,0.0248
+Trees on farm (count),nakaseke,Female,121,6.0,5.0,15.0,10.02,0.0248
+Cash income sources (number),mukono,Male,134,2.0,2.0,3.0,2.43,0.7215
+Cash income sources (number),mukono,Female,162,3.0,1.0,3.0,2.5,0.7215
+Cash income sources (number),nakaseke,Male,148,3.0,2.0,3.0,2.68,0.0005
+Cash income sources (number),nakaseke,Female,152,2.0,1.0,3.0,2.2,0.0005

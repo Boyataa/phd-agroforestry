@@ -1,0 +1,14 @@
+district,product,households,with_value,median_value_harvest,median_value_sold,median_value_home,pct_of_households
+mukono,Annual crops,93,91,300000.0,262500.0,50000.0,31.3
+mukono,Bananas,56,56,300000.0,225000.0,50000.0,18.9
+mukono,Firewood,24,23,380000.0,75000.0,95000.0,8.1
+mukono,Fruits,48,28,80000.0,15000.0,50000.0,16.2
+mukono,Logs/poles,6,6,225000.0,225000.0,0.0,2.0
+mukono,Roots,3,3,120000.0,120000.0,0.0,1.0
+nakaseke,Annual crops,54,47,900000.0,577500.0,113750.0,18.0
+nakaseke,Bananas,84,56,770000.0,650000.0,240000.0,28.0
+nakaseke,Firewood,52,21,810000.0,540000.0,280000.0,17.3
+nakaseke,Fruits,30,14,195000.0,36000.0,75000.0,10.0
+nakaseke,Leaves,7,6,41250.0,28500.0,15000.0,2.3
+nakaseke,Logs/poles,15,8,600000.0,130500.0,420000.0,5.0
+nakaseke,Roots,13,12,335000.0,260000.0,80000.0,4.3

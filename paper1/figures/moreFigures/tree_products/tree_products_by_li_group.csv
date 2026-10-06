@@ -1,0 +1,9 @@
+district,li_group,n HH,% reporting a tree product,n reporters with value,"median value sold, reporters (UGX/yr)","median value sold as % of cash income, reporters",chi-square p reporting (within district),Kruskal p value sold (within district)
+Mukono,<25%,129,47.3,44,68250.0,3.7,0.6,0.0
+Mukono,25-50%,120,39.2,43,150000.0,3.6,0.6,0.0
+Mukono,50-100%,29,41.4,12,310000.0,1.8,0.6,0.0
+Mukono,>=100%,19,47.4,9,450000.0,3.0,0.6,0.0
+Nakaseke,<25%,184,64.7,61,60000.0,5.7,0.0,0.0
+Nakaseke,25-50%,74,47.3,23,375000.0,9.0,0.0,0.0
+Nakaseke,50-100%,29,48.3,3,180000.0,3.4,0.0,0.0
+Nakaseke,>=100%,13,38.5,2,457500.0,2.9,0.0,0.0

@@ -1,0 +1,16 @@
+district,relationship,0-5,6-15,16-25,26-40,41-60,61+
+All,Head (incl. spouse),0,0,17,179,250,205
+All,Child of head,18,191,284,295,68,4
+All,Other relative,6,27,24,70,60,31
+All,Sibling of head,0,4,22,13,9,12
+All,Other (non-relative),1,0,3,8,0,2
+Mukono,Head (incl. spouse),0,0,9,90,148,154
+Mukono,Child of head,0,0,129,216,57,0
+Mukono,Other relative,0,0,16,28,33,11
+Mukono,Sibling of head,0,0,16,0,0,1
+Mukono,Other (non-relative),0,0,3,4,0,2
+Nakaseke,Head (incl. spouse),0,0,8,89,102,51
+Nakaseke,Child of head,18,191,155,79,11,4
+Nakaseke,Other relative,6,27,8,42,27,20
+Nakaseke,Sibling of head,0,4,6,13,9,11
+Nakaseke,Other (non-relative),1,0,0,4,0,0

@@ -34,4 +34,6 @@ run("obj1/module_a_sample.py", hh, P1)                                # Table 3,
 run("obj1/module_b_income_drivers.py", hh, mi, P1)                    # Figures 3-4, regression tables
 run("obj1/module_c_coffee_trees.py", hh, cleaned, P1)                 # Figure 5, coffee & tree tables
 run("obj1/module_d_living_conditions.py", hh, cleaned, P1)            # Table 4
+for g in ("demographics", "housing", "income", "gender_education", "farm_trees", "food_prices_gap"):
+    run(f"morefigures/{g}.py")                                          # earlier analyses re-run -> paper1/figures/moreFigures
 print(f"\nDone. Figures: {P1 / 'figures'}   Tables: {P1 / 'tables'}")

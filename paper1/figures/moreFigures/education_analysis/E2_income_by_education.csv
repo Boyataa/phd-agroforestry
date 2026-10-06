@@ -1,0 +1,9 @@
+district,education,n,median_cash,median_incl_inkind,median_ratio_hh_%,pct_reach_50,KW_p_cash,KW_p_ratio
+mukono,No formal,24,2100000,5248307,24.3,8.3,0.0001,0.0037
+mukono,Primary,196,2000000,4883663,25.6,9.7,0.0001,0.0037
+mukono,Secondary,68,5080000,8095744,35.7,35.3,0.0001,0.0037
+mukono,Vocational / tertiary,8,4500000,7821027,34.0,37.5,0.0001,0.0037
+nakaseke,No formal,62,1055000,3548097,17.8,3.2,0.0,0.0
+nakaseke,Primary,108,1110700,3253043,17.5,10.2,0.0,0.0
+nakaseke,Secondary,111,3200000,5259943,27.7,24.3,0.0,0.0
+nakaseke,Vocational / tertiary,19,1468200,3932462,20.6,10.5,0.0,0.0

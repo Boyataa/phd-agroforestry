@@ -1,0 +1,5 @@
+district,sample,n,mean gross (UGX/yr),median gross (UGX/yr),% below HH benchmark (gross),median % of HH benchmark (gross)
+Mukono,all households (used),297,7919574.6,5535254.8,93.6,26.5
+Mukono,"excluding IQR outliers (gross > 15.6M), old rule",266,5534760.6,4930984.9,97.7,25.3
+Nakaseke,all households (used),300,5587288.4,3901610.2,95.7,20.1
+Nakaseke,"excluding IQR outliers (gross > 12.0M), old rule",277,4366819.4,3614021.3,98.2,19.2

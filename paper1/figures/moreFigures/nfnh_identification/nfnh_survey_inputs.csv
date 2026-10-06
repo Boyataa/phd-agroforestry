@@ -1,0 +1,4 @@
+category,participant_column,survey rule (scripts/benchmark/build_participants.py)
+Education,Education,school fees + materials per term (by level) x children at that level x 3 terms / 12; university per semester x 2 / 12
+Healthcare,Healthcare,health spending in the last 3 months / 3 (column labelled 'number of visits' holds amounts)
+Transport,Transport,"cost per trip x uses per month for each transport mode (everyday 30, twice 2, four times 4, more than 5 = 6)"

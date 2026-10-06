@@ -1,0 +1,13 @@
+food_group,total_obs,unique_items,districts,obs_outlier_flagged,obs_local_unit_guessed
+Cereals,79,4,2,0,0
+Starchy fruits & fruit,74,7,2,4,30
+"Oils, fats & drinks",69,4,2,0,1
+Prepared cereals,64,4,2,0,0
+Legumes,63,5,2,0,7
+Roots & tubers,51,4,2,0,27
+Meat,41,3,2,0,0
+Leafy vegetables,41,4,2,0,25
+Other vegetables,34,3,2,3,13
+Dairy,32,2,2,0,3
+Eggs,19,1,2,3,0
+Fish,10,2,2,3,0

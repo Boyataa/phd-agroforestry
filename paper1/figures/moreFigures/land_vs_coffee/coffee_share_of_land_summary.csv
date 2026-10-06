@@ -1,0 +1,7 @@
+,n,median,q25,q75,mean,spearman rho land vs coffee,test
+Mukono,295.0,50.0,50.0,100.0,62.6,0.74,"coffee share, Mann-Whitney districts p = 0.002"
+Nakaseke,295.0,50.0,40.0,66.7,54.5,0.88,
+LI <25%,308.0,50.0,40.0,70.4,58.0,,"coffee share, Kruskal LI groups p = 0.090"
+LI 25-50%,192.0,50.0,50.0,76.2,60.3,,
+LI 50-100%,58.0,50.0,38.1,66.7,51.7,,
+LI >=100%,32.0,63.3,50.0,75.5,66.5,,

@@ -1,0 +1,4 @@
+district,n answered,% paying 0,n paying > 0,"p25 (UGX/day, >0)","median (UGX/day, >0)","p75 (UGX/day, >0)","mean (UGX/day, >0)","median x 365 (UGX/yr, >0)","Mann-Whitney p (district, >0)","Kruskal p (income groups, >0)"
+Mukono,295,26.1,218,50.0,67.0,167.0,209.6,24455.0,<0.001,<0.001
+Nakaseke,284,3.5,274,100.0,500.0,900.0,562.2,182500.0,<0.001,<0.001
+All,579,15.0,492,67.0,100.0,600.0,406.0,36500.0,<0.001,<0.001

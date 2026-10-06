@@ -1,0 +1,29 @@
+,variable,by,n,mean,p25,median,p75,p
+mukono,Cost to build this house (UGX),district,188.0,17864627.66,3500000.0,9500000.0,25000000.0,<0.001
+nakaseke,Cost to build this house (UGX),district,263.0,7777566.54,4000000.0,6000000.0,9000000.0,<0.001
+all,Cost to build this house (UGX),district,451.0,11982372.51,4000000.0,7000000.0,14000000.0,<0.001
+<25%,Cost to build this house (UGX),li_group,263.0,9732319.39,3500000.0,6000000.0,10000000.0,<0.001
+25-50%,Cost to build this house (UGX),li_group,140.0,14603928.57,4000000.0,8500000.0,20000000.0,<0.001
+50-100%,Cost to build this house (UGX),li_group,30.0,9053333.33,4000000.0,6000000.0,8000000.0,<0.001
+>=100%,Cost to build this house (UGX),li_group,18.0,29350000.0,8250000.0,19000000.0,40000000.0,<0.001
+mukono,Rent of a similar house (UGX / month),district,291.0,175690.72,50000.0,100000.0,250000.0,<0.001
+nakaseke,Rent of a similar house (UGX / month),district,265.0,99758.49,40000.0,70000.0,100000.0,<0.001
+all,Rent of a similar house (UGX / month),district,556.0,139500.0,50000.0,90000.0,200000.0,<0.001
+<25%,Rent of a similar house (UGX / month),li_group,285.0,125919.3,50000.0,85000.0,150000.0,0.030
+25-50%,Rent of a similar house (UGX / month),li_group,186.0,149596.77,40000.0,80000.0,200000.0,0.030
+50-100%,Rent of a similar house (UGX / month),li_group,53.0,147547.17,50000.0,100000.0,150000.0,0.030
+>=100%,Rent of a similar house (UGX / month),li_group,32.0,188437.5,95000.0,135000.0,300000.0,0.030
+mukono,Build cost ÷ annual rent (years),district,184.0,12.27,3.75,6.67,13.47,0.547
+nakaseke,Build cost ÷ annual rent (years),district,258.0,10.35,4.17,5.95,11.11,0.547
+all,Build cost ÷ annual rent (years),district,442.0,11.15,4.17,6.25,12.34,0.547
+<25%,Build cost ÷ annual rent (years),li_group,257.0,8.76,3.33,5.56,8.33,<0.001
+25-50%,Build cost ÷ annual rent (years),li_group,138.0,14.73,4.17,7.4,16.67,<0.001
+50-100%,Build cost ÷ annual rent (years),li_group,29.0,10.09,5.0,9.44,11.11,<0.001
+>=100%,Build cost ÷ annual rent (years),li_group,18.0,19.43,7.15,15.1,26.04,<0.001
+mukono,House age (years),district,294.0,18.71,10.25,18.0,25.0,<0.001
+nakaseke,House age (years),district,293.0,16.25,8.0,14.0,24.0,<0.001
+all,House age (years),district,587.0,17.48,9.0,15.0,25.0,<0.001
+<25%,House age (years),li_group,305.0,16.98,9.0,15.0,25.0,0.346
+25-50%,House age (years),li_group,193.0,18.55,10.0,16.0,25.0,0.346
+50-100%,House age (years),li_group,57.0,16.26,8.0,15.0,25.0,0.346
+>=100%,House age (years),li_group,32.0,18.03,8.0,16.0,25.0,0.346

@@ -1,0 +1,22 @@
+,variable,by,n,mean,p25,median,p75,p
+mukono,floor area modelled (m2),district,291.0,71.63,44.083,68.4,79.271,0.040
+nakaseke,floor area modelled (m2),district,293.0,72.253,60.699,60.699,79.271,0.040
+all,floor area modelled (m2),district,584.0,71.942,46.478,60.699,79.271,0.040
+<25%,floor area modelled (m2),li_group,305.0,69.364,46.478,60.699,79.271,0.009
+25-50%,floor area modelled (m2),li_group,189.0,70.746,46.478,60.699,79.271,0.009
+50-100%,floor area modelled (m2),li_group,58.0,82.312,46.478,60.699,96.321,0.009
+>=100%,floor area modelled (m2),li_group,32.0,84.789,68.601,79.271,103.526,0.009
+mukono,m2 per person,district,291.0,18.285,7.914,12.231,20.469,<0.001
+nakaseke,m2 per person,district,293.0,20.067,10.485,15.175,20.233,<0.001
+all,m2 per person,district,584.0,19.179,9.296,13.998,20.233,<0.001
+<25%,m2 per person,li_group,305.0,14.756,8.671,12.14,18.349,<0.001
+25-50%,m2 per person,li_group,189.0,22.893,10.116,15.493,26.014,<0.001
+50-100%,m2 per person,li_group,58.0,19.175,10.876,16.291,21.707,<0.001
+>=100%,m2 per person,li_group,32.0,39.411,13.977,23.457,62.928,<0.001
+mukono,persons per bedroom,district,289.0,2.67,1.5,2.25,3.5,0.078
+nakaseke,persons per bedroom,district,295.0,2.391,1.333,2.0,3.0,0.078
+all,persons per bedroom,district,584.0,2.529,1.333,2.0,3.0,0.078
+<25%,persons per bedroom,li_group,306.0,2.866,1.667,2.5,3.5,<0.001
+25-50%,persons per bedroom,li_group,188.0,2.294,1.0,2.0,3.0,<0.001
+50-100%,persons per bedroom,li_group,58.0,2.227,1.357,2.0,2.875,<0.001
+>=100%,persons per bedroom,li_group,32.0,1.236,0.5,1.0,2.0,<0.001

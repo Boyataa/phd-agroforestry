@@ -1,0 +1,7 @@
+basis,group,n,Tree crop: coffee %,Mixed / cannot split: other crop sales (Q162e) %,"Non-tree: livestock, non-farm work, transfers %",sensitivity: coffee + Q168-170 tree product value as % of (total + that value),Tree products used at home (non-food in-kind) %,Mixed / cannot split: home-grown food (in-kind) %
+Cash only,Mukono,297,54.8,14.6,30.6,56.0,,
+Cash only,Nakaseke,300,82.2,6.9,10.9,83.7,,
+Cash only,Both,597,66.0,11.5,22.5,67.8,,
+Incl. in-kind,Mukono,297,35.8,9.6,20.0,36.9,0.3,34.3
+Incl. in-kind,Nakaseke,300,52.8,4.4,7.0,55.5,1.1,34.6
+Incl. in-kind,Both,597,42.9,7.4,14.6,44.8,0.6,34.4

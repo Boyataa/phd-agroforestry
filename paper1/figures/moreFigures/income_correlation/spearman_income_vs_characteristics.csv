@@ -1,0 +1,85 @@
+income,group,variable,rho,ci_low,ci_high,n,p
+Total cash income,Mukono,No. cash sources,0.4323,0.3303,0.5243,297,0.0
+Total cash income,Mukono,Land owned (ac),0.6217,0.539,0.6926,296,0.0
+Total cash income,Mukono,Coffee area (ac),0.4396,0.3378,0.5312,295,0.0
+Total cash income,Mukono,Other crops area (ac),0.4156,0.3111,0.5102,290,0.0
+Total cash income,Mukono,Tree plantation (ac),0.1015,-0.014,0.2142,291,0.084
+Total cash income,Mukono,Trees on farm,0.3813,0.2755,0.478,295,0.0
+Total cash income,Mukono,Coffee yield (kg FAQ/ac),0.3633,0.2564,0.4614,295,0.0
+Total cash income,Mukono,Kiboko price,-0.2341,-0.3438,-0.1182,278,0.0001
+Total cash income,Mukono,Household size,0.2495,0.1379,0.3548,297,0.0
+Total cash income,Mukono,Farming years,-0.0837,-0.1963,0.0309,295,0.1513
+Total cash income,Mukono,Female respondent,-0.159,-0.2688,-0.0451,296,0.0061
+Total cash income,Mukono,Respondent secondary educ.+,0.2667,0.1555,0.3712,296,0.0
+Total cash income,Mukono,Group member,0.2939,0.1838,0.3968,296,0.0
+Total cash income,Mukono,Extension contact,0.0788,-0.0357,0.1913,296,0.1761
+Total cash income,Nakaseke,No. cash sources,0.0485,-0.0651,0.161,300,0.4022
+Total cash income,Nakaseke,Land owned (ac),0.3559,0.2488,0.4544,296,0.0
+Total cash income,Nakaseke,Coffee area (ac),0.4816,0.3838,0.5687,298,0.0
+Total cash income,Nakaseke,Other crops area (ac),0.4357,0.3228,0.5364,244,0.0
+Total cash income,Nakaseke,Tree plantation (ac),-0.1112,-0.2344,0.0155,242,0.0843
+Total cash income,Nakaseke,Trees on farm,-0.1477,-0.282,-0.0077,198,0.0379
+Total cash income,Nakaseke,Coffee yield (kg FAQ/ac),0.49,0.3899,0.5787,281,0.0
+Total cash income,Nakaseke,Kiboko price,0.1178,-0.0079,0.2397,246,0.0652
+Total cash income,Nakaseke,Household size,0.1371,0.0237,0.247,300,0.0175
+Total cash income,Nakaseke,Farming years,-0.1092,-0.2206,0.005,297,0.0601
+Total cash income,Nakaseke,Female respondent,-0.1068,-0.2179,0.007,299,0.065
+Total cash income,Nakaseke,Respondent secondary educ.+,0.3267,0.2188,0.4267,300,0.0
+Total cash income,Nakaseke,Group member,0.2417,0.1297,0.3477,296,0.0
+Total cash income,Nakaseke,Extension contact,0.1028,-0.0118,0.2148,295,0.0779
+Total cash income,Both,No. cash sources,0.2363,0.158,0.3117,597,0.0
+Total cash income,Both,Land owned (ac),0.4373,0.3665,0.5031,592,0.0
+Total cash income,Both,Coffee area (ac),0.4115,0.3394,0.4788,593,0.0
+Total cash income,Both,Other crops area (ac),0.396,0.3191,0.4678,534,0.0
+Total cash income,Both,Tree plantation (ac),-0.1034,-0.1869,-0.0184,533,0.0169
+Total cash income,Both,Trees on farm,0.1273,0.0391,0.2136,493,0.0046
+Total cash income,Both,Coffee yield (kg FAQ/ac),0.4544,0.3835,0.5199,576,0.0
+Total cash income,Both,Kiboko price,-0.1489,-0.2321,-0.0636,524,0.0006
+Total cash income,Both,Household size,0.1941,0.1149,0.2708,597,0.0
+Total cash income,Both,Farming years,-0.0617,-0.1417,0.019,592,0.1336
+Total cash income,Both,Female respondent,-0.1142,-0.193,-0.0338,595,0.0053
+Total cash income,Both,Respondent secondary educ.+,0.2573,0.1794,0.3319,596,0.0
+Total cash income,Both,Group member,0.2985,0.2216,0.3717,592,0.0
+Total cash income,Both,Extension contact,0.0657,-0.0151,0.1457,591,0.1104
+Income incl. in-kind,Mukono,No. cash sources,0.386,0.2809,0.482,297,0.0
+Income incl. in-kind,Mukono,Land owned (ac),0.5712,0.4821,0.6485,296,0.0
+Income incl. in-kind,Mukono,Coffee area (ac),0.4166,0.3132,0.5103,295,0.0
+Income incl. in-kind,Mukono,Other crops area (ac),0.35,0.2414,0.4499,290,0.0
+Income incl. in-kind,Mukono,Tree plantation (ac),0.1163,0.0009,0.2286,291,0.0476
+Income incl. in-kind,Mukono,Trees on farm,0.3628,0.2559,0.461,295,0.0
+Income incl. in-kind,Mukono,Coffee yield (kg FAQ/ac),0.2897,0.1792,0.393,295,0.0
+Income incl. in-kind,Mukono,Kiboko price,-0.1791,-0.2915,-0.0618,278,0.0027
+Income incl. in-kind,Mukono,Household size,0.5936,0.5074,0.668,297,0.0
+Income incl. in-kind,Mukono,Farming years,-0.1166,-0.2281,-0.002,295,0.0454
+Income incl. in-kind,Mukono,Female respondent,-0.1396,-0.2502,-0.0255,296,0.0162
+Income incl. in-kind,Mukono,Respondent secondary educ.+,0.2849,0.1744,0.3883,296,0.0
+Income incl. in-kind,Mukono,Group member,0.2796,0.1689,0.3833,296,0.0
+Income incl. in-kind,Mukono,Extension contact,0.1057,-0.0088,0.2174,296,0.0695
+Income incl. in-kind,Nakaseke,No. cash sources,0.067,-0.0467,0.1791,300,0.2469
+Income incl. in-kind,Nakaseke,Land owned (ac),0.4206,0.3175,0.5138,296,0.0
+Income incl. in-kind,Nakaseke,Coffee area (ac),0.5225,0.4285,0.6053,298,0.0
+Income incl. in-kind,Nakaseke,Other crops area (ac),0.4538,0.3424,0.5525,244,0.0
+Income incl. in-kind,Nakaseke,Tree plantation (ac),-0.031,-0.1565,0.0955,242,0.6317
+Income incl. in-kind,Nakaseke,Trees on farm,-0.1241,-0.2596,0.0161,198,0.0814
+Income incl. in-kind,Nakaseke,Coffee yield (kg FAQ/ac),0.3619,0.2521,0.4624,281,0.0
+Income incl. in-kind,Nakaseke,Kiboko price,0.1498,0.0245,0.2705,246,0.0187
+Income incl. in-kind,Nakaseke,Household size,0.4644,0.3655,0.553,300,0.0
+Income incl. in-kind,Nakaseke,Farming years,-0.0647,-0.1774,0.0496,297,0.266
+Income incl. in-kind,Nakaseke,Female respondent,-0.0282,-0.1412,0.0855,299,0.6274
+Income incl. in-kind,Nakaseke,Respondent secondary educ.+,0.2703,0.16,0.3739,300,0.0
+Income incl. in-kind,Nakaseke,Group member,0.2189,0.1062,0.326,296,0.0001
+Income incl. in-kind,Nakaseke,Extension contact,0.146,0.0317,0.2565,295,0.0121
+Income incl. in-kind,Both,No. cash sources,0.2192,0.1405,0.2952,597,0.0
+Income incl. in-kind,Both,Land owned (ac),0.4262,0.3548,0.4927,592,0.0
+Income incl. in-kind,Both,Coffee area (ac),0.404,0.3315,0.4718,593,0.0
+Income incl. in-kind,Both,Other crops area (ac),0.3392,0.2596,0.4142,534,0.0
+Income incl. in-kind,Both,Tree plantation (ac),-0.0844,-0.1683,0.0006,533,0.0514
+Income incl. in-kind,Both,Trees on farm,0.1693,0.0815,0.2544,493,0.0002
+Income incl. in-kind,Both,Coffee yield (kg FAQ/ac),0.3786,0.3038,0.4488,576,0.0
+Income incl. in-kind,Both,Kiboko price,-0.0962,-0.1806,-0.0105,524,0.0276
+Income incl. in-kind,Both,Household size,0.5315,0.467,0.5903,597,0.0
+Income incl. in-kind,Both,Farming years,-0.0264,-0.1068,0.0543,592,0.5217
+Income incl. in-kind,Both,Female respondent,-0.0623,-0.142,0.0183,595,0.1291
+Income incl. in-kind,Both,Respondent secondary educ.+,0.2213,0.1425,0.2972,596,0.0
+Income incl. in-kind,Both,Group member,0.2844,0.207,0.3582,592,0.0
+Income incl. in-kind,Both,Extension contact,0.0875,0.0067,0.1671,591,0.0335

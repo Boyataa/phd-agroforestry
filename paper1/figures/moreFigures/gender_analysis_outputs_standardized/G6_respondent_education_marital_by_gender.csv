@@ -1,0 +1,9 @@
+variable,district,respondent,n,No formal,Primary,Secondary,Vocational / tertiary,chi2_p,married,single,divorced,other
+edu_cat,mukono,Male,111,2.7,64.9,27.0,5.4,0.0058,,,,
+edu_cat,mukono,Female,185,11.4,67.0,20.5,1.1,0.0058,,,,
+edu_cat,nakaseke,Male,145,20.0,32.4,41.4,6.2,0.4796,,,,
+edu_cat,nakaseke,Female,154,20.8,39.6,33.1,6.5,0.4796,,,,
+marital,mukono,Male,111,,,,,0.0,78.4,5.4,9.9,6.3
+marital,mukono,Female,185,,,,,0.0,44.9,2.2,14.6,38.4
+marital,nakaseke,Male,145,,,,,0.347,71.0,23.4,5.5,0.0
+marital,nakaseke,Female,154,,,,,0.347,66.2,28.6,3.9,1.3

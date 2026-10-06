@@ -1,0 +1,941 @@
+_id,district,food_group,comment,usable,codes
+616677841,mukono,Non-alcoholic drinks,Once in a while,True,Availability / seasonal
+592191523,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+552803559,nakaseke,Non-alcoholic drinks,Don't drink cold drinks,True,Quality / safety
+613831899,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+557695958,nakaseke,Non-alcoholic drinks,Very far from our house,True,Distance / market access
+550715350,nakaseke,Non-alcoholic drinks,Not cold,True,Quality / safety
+552803832,nakaseke,Non-alcoholic drinks,Not cold enough,True,Quality / safety
+553311655,nakaseke,Non-alcoholic drinks,The shop is very far,True,Distance / market access
+554396495,nakaseke,Non-alcoholic drinks,No electricity,True,No constraint
+613810847,nakaseke,Non-alcoholic drinks,At home,True,Other
+551432268,nakaseke,Non-alcoholic drinks,Too expensive,True,Price / cannot afford
+553313606,nakaseke,Non-alcoholic drinks,They far,True,Distance / market access
+559615651,nakaseke,Non-alcoholic drinks,Very  expensive,True,Price / cannot afford
+592193539,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+613822490,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+613825443,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+551439754,nakaseke,Non-alcoholic drinks,Too far and not cold,True,Distance / market access; Quality / safety
+552970239,nakaseke,Non-alcoholic drinks,Not readly available,True,Availability / seasonal
+613179574,nakaseke,Non-alcoholic drinks,They are attached by small worms and wilting,True,Pests & diseases; Quality / safety
+553314312,nakaseke,Non-alcoholic drinks,Most,True,Other
+555219512,nakaseke,Non-alcoholic drinks,No electricity and they do not drink cold drinks,True,Quality / safety; No constraint
+586786507,nakaseke,Non-alcoholic drinks,Disease spread due sharing of cup and also plates,True,Pests & diseases
+586805028,nakaseke,Non-alcoholic drinks,No longer non alcoholic drinks and for they prepare at home,True,No constraint
+615755561,mukono,Non-alcoholic drinks,It's far from here,True,Distance / market access
+592192218,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+556031317,nakaseke,Non-alcoholic drinks,Distance to reach a trading centre,True,Distance / market access
+586030936,nakaseke,Non-alcoholic drinks,They don't take non alcoholic drinks,True,Other
+614850521,mukono,Non-alcoholic drinks,Have some shops nearer,True,Distance / market access
+623188000,mukono,Non-alcoholic drinks,From kisoga trading centre,True,Other
+555219650,nakaseke,Non-alcoholic drinks,Trading  is far,True,Distance / market access
+553313598,nakaseke,Non-alcoholic drinks,"Distance while buying                  ,",True,Distance / market access
+613814407,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+616679140,mukono,Non-alcoholic drinks,Have some small shops near,True,Distance / market access; Quality / safety
+593198085,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+561237697,nakaseke,Non-alcoholic drinks,Very okay,True,Other
+613819661,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+553313800,nakaseke,Non-alcoholic drinks,",",False,
+583505325,nakaseke,Non-alcoholic drinks,Some times they lack money to buy non alcoholic drinks,True,Price / cannot afford
+613821415,nakaseke,Non-alcoholic drinks,Trading center,True,Other
+550739292,nakaseke,Non-alcoholic drinks,Mainly for only home consumption  can't afford casual  workers because they are expensive,True,Price / cannot afford
+550740686,nakaseke,Non-alcoholic drinks,Long distances  and a lot of expenses,True,Price / cannot afford; Distance / market access
+552803009,nakaseke,Non-alcoholic drinks,Expired drinks,True,Other
+554395712,nakaseke,Non-alcoholic drinks,Not cold enough,True,Quality / safety
+613829595,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+614850459,mukono,Non-alcoholic drinks,Nearer to the trading centre,True,Other
+613827164,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+550740078,nakaseke,Non-alcoholic drinks,Far diseases,True,Pests & diseases; Distance / market access
+552802393,nakaseke,Non-alcoholic drinks,Lacking money to buy,True,Price / cannot afford
+553314788,nakaseke,Non-alcoholic drinks,Distance,True,Distance / market access
+557694485,nakaseke,Non-alcoholic drinks,Lack of money,True,Price / cannot afford
+557694682,nakaseke,Non-alcoholic drinks,Lack of money,True,Price / cannot afford
+558375556,nakaseke,Non-alcoholic drinks,It's somehow a long  distance  to the shop,True,Distance / market access
+592192864,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+619547863,mukono,Non-alcoholic drinks,Most cases use that got from the garden,True,Other
+550738751,nakaseke,Non-alcoholic drinks,They are expensive  because  she is now too old and can't work anymore,True,Price / cannot afford
+556042851,nakaseke,Non-alcoholic drinks,The shops are near which is so convenient  to us but some we may have no money,True,Price / cannot afford; Distance / market access
+561201812,nakaseke,Non-alcoholic drinks,Shops  are very  near to us but sometimes  they are spoilt,True,Distance / market access; Quality / safety
+561202655,nakaseke,Non-alcoholic drinks,Sometimes they are  expensive,True,Price / cannot afford
+552806909,nakaseke,Non-alcoholic drinks,Lack of money both for  transport to go the markets  and also lack of money  to buy those things,True,Price / cannot afford; Distance / market access
+557694859,nakaseke,Non-alcoholic drinks,Lack of enough  money,True,Price / cannot afford
+593200247,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+613820537,nakaseke,Non-alcoholic drinks,Prepared at home,True,Other
+617460629,mukono,Non-alcoholic drinks,Have near shops,True,Distance / market access
+617461597,mukono,Non-alcoholic drinks,Have some nearby shops,True,Distance / market access
+554408234,nakaseke,Non-alcoholic drinks,Walking  long distances  to the shop and the things  are costly,True,Price / cannot afford; Distance / market access
+556042141,nakaseke,Non-alcoholic drinks,Lack of enough money,True,Price / cannot afford
+559614978,nakaseke,Non-alcoholic drinks,Since  we are near the trading  centre  everything  is near there we don't need to travel,True,Other
+581570782,nakaseke,Non-alcoholic drinks,The trading  centre is very far from us,True,Distance / market access
+553316435,nakaseke,Non-alcoholic drinks,Long distances,True,Distance / market access
+558375760,nakaseke,Non-alcoholic drinks,Lack of money,True,Price / cannot afford
+559615316,nakaseke,Non-alcoholic drinks,No problem  the things are affordable,True,Price / cannot afford; No constraint
+560425493,nakaseke,Non-alcoholic drinks,Sometimes we can afford but it's a long way  to the shop,True,Price / cannot afford; Distance / market access
+560424556,nakaseke,Non-alcoholic drinks,When we spray  we normally  get our produces in good quantities,True,Other
+561200542,nakaseke,Non-alcoholic drinks,It's a walkable distance  but sometimes  we may lack money,True,Price / cannot afford; Distance / market access
+561202398,nakaseke,Non-alcoholic drinks,Sometimes we don't find them at the shops,True,Distance / market access
+560425197,nakaseke,Non-alcoholic drinks,The shops  are abit far away in d trading centres,True,Distance / market access
+628088416,mukono,Non-alcoholic drinks,From own retail shop,True,Distance / market access
+556039009,nakaseke,Non-alcoholic drinks,We have a nearby shop but sometimes  we can't afford  them because of lack of money,True,Price / cannot afford; Distance / market access
+553316712,nakaseke,Non-alcoholic drinks,Expensive,True,Price / cannot afford
+560423470,nakaseke,Non-alcoholic drinks,Long distances,True,Distance / market access
+551439101,nakaseke,Non-alcoholic drinks,Far places,True,Distance / market access
+553316111,nakaseke,Non-alcoholic drinks,Very expensive,True,Price / cannot afford
+554407800,nakaseke,Non-alcoholic drinks,No problem  because  the shops are near and at affordable  prices,True,Price / cannot afford; Distance / market access; No constraint
+558374654,nakaseke,Non-alcoholic drinks,The shops are very near but sometimes  we may lack money,True,Price / cannot afford; Distance / market access
+558375246,nakaseke,Non-alcoholic drinks,No problem the shop is near and the prices  are OK,True,Price / cannot afford; Distance / market access; No constraint
+581569323,nakaseke,Non-alcoholic drinks,It's along distance which requires  a bicycle  or a boda,True,Distance / market access
+581571879,nakaseke,Non-alcoholic drinks,Long distances,True,Distance / market access
+564861263,nakaseke,Non-alcoholic drinks,Its requires someone  to put in transport to reach the supermarket,True,Distance / market access
+559615143,nakaseke,Non-alcoholic drinks,It's a distance from here to the shop,True,Distance / market access
+564864365,nakaseke,Non-alcoholic drinks,Shop is very far it's not a walkable  distance,True,Distance / market access
+553315619,nakaseke,Non-alcoholic drinks,If at all she doesn't  sell matooke or coffee  she can't get them,True,Other
+556039301,nakaseke,Non-alcoholic drinks,Without  selling  coffee  they can't afford  to buy  anymore,True,Price / cannot afford
+615757479,mukono,Non-alcoholic drinks,When travelling,True,Other
+557694292,nakaseke,Non-alcoholic drinks,Some times  things  are expired,True,Other
+582450581,nakaseke,Non-alcoholic drinks,Expensive,True,Price / cannot afford
+551438934,nakaseke,Non-alcoholic drinks,It's far,True,Distance / market access
+554402613,nakaseke,Non-alcoholic drinks,It's a walkable distance  n affordable  prices,True,Price / cannot afford; Distance / market access
+589547568,nakaseke,Non-alcoholic drinks,Very long distance,True,Distance / market access
+592180125,nakaseke,Non-alcoholic drinks,Sometimes there are not available,True,Availability / seasonal
+613185864,nakaseke,Non-alcoholic drinks,Too cold and of bad quality,True,Quality / safety
+552806578,nakaseke,Non-alcoholic drinks,Since there is pests and diseases affecting  their  plantations  where they get money it affects  them alot,True,Pests & diseases; Price / cannot afford
+554997531,nakaseke,Non-alcoholic drinks,It's a long distance  to nakaseke  that's where the shops are with available  things to be used,True,Distance / market access; Availability / seasonal
+581568916,nakaseke,Non-alcoholic drinks,We can afford  them but it's a long distance,True,Price / cannot afford; Distance / market access
+582449149,nakaseke,Non-alcoholic drinks,Long distances,True,Distance / market access
+583384059,nakaseke,Non-alcoholic drinks,We are located  near shops so we don't need to move long  distances but sometimes  we find the things  out dated,True,Distance / market access
+584465855,nakaseke,Non-alcoholic drinks,They're expensive,True,Price / cannot afford
+585291611,nakaseke,Non-alcoholic drinks,Most of the time the things  are not there,True,Other
+588618114,nakaseke,Non-alcoholic drinks,Sometimes  they save it cold,True,Quality / safety
+589549118,nakaseke,Non-alcoholic drinks,Very far from where reside,True,Distance / market access
+592179551,nakaseke,Non-alcoholic drinks,Expensive,True,Price / cannot afford
+613185857,nakaseke,Non-alcoholic drinks,We sometimes  we can't afford  it,True,Price / cannot afford
+613185868,nakaseke,Non-alcoholic drinks,Long distances affect us,True,Distance / market access
+586823072,nakaseke,Non-alcoholic drinks,Sometimes  the utensils used are not clean enough,True,Other
+586821078,nakaseke,Non-alcoholic drinks,Poor quality within clean utensils,True,Quality / safety
+586823179,nakaseke,Non-alcoholic drinks,They're un available during  hot seasons,True,Availability / seasonal
+588618032,nakaseke,Non-alcoholic drinks,Very  expensive and dirty at times,True,Price / cannot afford
+613184762,nakaseke,Non-alcoholic drinks,Very  long distance nto the trading centre,True,Distance / market access
+593216705,nakaseke,Non-alcoholic drinks,It's along way to kiwoko which requires  a boda,True,Other
+582448458,nakaseke,Non-alcoholic drinks,Easier accessible  because  we are near the trading  centre and they are affordable,True,Price / cannot afford
+583383308,nakaseke,Non-alcoholic drinks,The prices are too high,True,Price / cannot afford
+584457728,nakaseke,Non-alcoholic drinks,Too far,True,Distance / market access
+584460556,nakaseke,Non-alcoholic drinks,They are too expensive  for us to buy,True,Price / cannot afford
+586822745,nakaseke,Non-alcoholic drinks,Very cold,True,Quality / safety
+588618956,nakaseke,Non-alcoholic drinks,It's not there at times,True,Other
+588619984,nakaseke,Non-alcoholic drinks,Dirty utensils  and also the bad preparation  of the tea,True,Pests & diseases
+613184214,nakaseke,Non-alcoholic drinks,Very high prices,True,Price / cannot afford
+551438775,nakaseke,Non-alcoholic drinks,Expensive  and longer distances,True,Price / cannot afford; Distance / market access
+552805506,nakaseke,Non-alcoholic drinks,Sometimes Money  is available  but it's a long distance  from timuna to the trading center,True,Price / cannot afford; Distance / market access; Availability / seasonal
+582449815,nakaseke,Non-alcoholic drinks,Sometimes  they are not available,True,Availability / seasonal
+583383783,nakaseke,Non-alcoholic drinks,They are expensive,True,Price / cannot afford
+583384470,nakaseke,Non-alcoholic drinks,Very expensive,True,Price / cannot afford
+585919910,nakaseke,Non-alcoholic drinks,It requires one to hire a boda or get a bicycle  to the trading centre,True,Other
+585937638,nakaseke,Non-alcoholic drinks,Very expensive,True,Price / cannot afford
+592179023,nakaseke,Non-alcoholic drinks,Sometimes there are not available,True,Availability / seasonal
+551439238,nakaseke,Non-alcoholic drinks,Far places,True,Distance / market access
+555070994,nakaseke,Non-alcoholic drinks,It's along  distance from here to nakaseke it's needs a bicycle,True,Distance / market access
+555112218,nakaseke,Non-alcoholic drinks,High  prices  for the commodities  and also the shops are far,True,Price / cannot afford; Distance / market access
+555148547,nakaseke,Non-alcoholic drinks,Lack of enough money,True,Price / cannot afford
+584458624,nakaseke,Non-alcoholic drinks,Sometimes  they are expired,True,Other
+585290674,nakaseke,Non-alcoholic drinks,The shop are very far,True,Distance / market access
+585290890,nakaseke,Non-alcoholic drinks,Sometimes you are  given  cold things,True,Quality / safety
+585309665,nakaseke,Non-alcoholic drinks,Sometimes  i can't  afford,True,Price / cannot afford
+585924133,nakaseke,Non-alcoholic drinks,Long distances,True,Distance / market access
+585929887,nakaseke,Non-alcoholic drinks,So cold,True,Quality / safety
+613834815,nakaseke,Non-alcoholic drinks,Not cold,True,Quality / safety
+613836978,nakaseke,Non-alcoholic drinks,Brought from Safe place,True,Other
+616677841,mukono,Dairy,Don't have money for that,True,Price / cannot afford
+592191523,nakaseke,Dairy,The middle man that sells the milk sell milk that is already milked long time ago and so when cooking it get spoiled,True,Quality / safety
+552803559,nakaseke,Dairy,Take long to have it,True,Availability / seasonal
+613831899,nakaseke,Dairy,Some times scarcity of diary products,True,Availability / seasonal
+557695958,nakaseke,Dairy,Too expensive and hard to get,True,Price / cannot afford; Availability / seasonal
+550715350,nakaseke,Dairy,They take long to come,True,Availability / seasonal
+552803832,nakaseke,Dairy,Take long to see hawkers,True,Distance / market access; Availability / seasonal
+588626659,nakaseke,Dairy,Watery milk or the milk is too diluted,True,Quality / safety
+588783193,nakaseke,Dairy,Too expensive,True,Price / cannot afford
+613810847,nakaseke,Dairy,Too diluted,True,Quality / safety
+623704503,mukono,Dairy,Neighbours,True,Other
+554382238,nakaseke,Dairy,Too expensive,True,Price / cannot afford
+589705733,nakaseke,Dairy,Hard to get and too expensive,True,Price / cannot afford; Availability / seasonal
+633861862,mukono,Dairy,Cattle farmers,True,Distance / market access
+634022320,mukono,Dairy,Don't feed on milk,True,Other
+634952733,mukono,Dairy,Cattle farmers,True,Distance / market access
+635102513,mukono,Dairy,Cattle farmers,True,Distance / market access
+552968706,nakaseke,Dairy,Most,True,Other
+552969446,nakaseke,Dairy,Too expensive and hard to get,True,Price / cannot afford; Availability / seasonal
+588782700,nakaseke,Dairy,Too diluted,True,Quality / safety
+586805028,nakaseke,Dairy,Watery milk from batembeyi,True,Quality / safety
+589705256,nakaseke,Dairy,Too diluted,True,Quality / safety
+618056804,mukono,Dairy,Neighbours,True,Other
+644420087,mukono,Dairy,Ndese,True,Other
+592192218,nakaseke,Dairy,Spoiled  milk from batembeyi,True,Quality / safety
+556037719,nakaseke,Dairy,Do not drink,True,Other
+586026956,nakaseke,Dairy,Do not drink milk,True,Other
+550732883,nakaseke,Dairy,Move long distances to get product,True,Distance / market access
+586030936,nakaseke,Dairy,Some water is added in to milk,True,Quality / safety
+614807290,mukono,Dairy,Not a fun of milk,True,Other
+616579437,mukono,Dairy,Diary in kawuku,True,Other
+616580090,mukono,Dairy,Neighbours,True,Other
+618502771,mukono,Dairy,Neighbours,True,Other
+618503624,mukono,Dairy,Diary,True,Other
+622292961,mukono,Dairy,Diary,True,Other
+633861646,mukono,Dairy,Cattle farmers,True,Distance / market access
+635860119,mukono,Dairy,Neighbours,True,Other
+551438282,nakaseke,Dairy,Full of in milk,True,Other
+618502947,mukono,Dairy,No money for milk,True,Price / cannot afford; No constraint
+620155076,mukono,Dairy,Diary,True,Other
+621076849,mukono,Dairy,Diary,True,Other
+634023370,mukono,Dairy,Neighbours,True,Other
+634718387,mukono,Dairy,Neighbours,True,Other
+635859907,mukono,Dairy,Neighbours,True,Other
+636603192,mukono,Dairy,Diary,True,Other
+588629366,nakaseke,Dairy,Watery milk,True,Quality / safety
+614850630,mukono,Dairy,Nearer to the trading centre,True,Other
+582502398,nakaseke,Dairy,Pouring water into diary products like milk,True,Quality / safety
+583505325,nakaseke,Dairy,Some times hawkers add too much water in the milk,True,Distance / market access; Quality / safety
+550740686,nakaseke,Dairy,Expensive,True,Price / cannot afford
+555219447,nakaseke,Dairy,Rearing is hard because  0f the Thieves,True,Other
+585208171,nakaseke,Dairy,Too much water are poured into the milk,True,Quality / safety
+613829595,nakaseke,Dairy,Scarcity and also lacking money to buy milk,True,Price / cannot afford; Availability / seasonal
+614807717,mukono,Dairy,Neighbours,True,Other
+616587562,mukono,Dairy,Diary at kawuku,True,Other
+619306835,mukono,Dairy,No money for milk,True,Price / cannot afford; No constraint
+620157158,mukono,Dairy,Diary,True,Other
+621075678,mukono,Dairy,Diary,True,Other
+623704380,mukono,Dairy,Don't feed on it,True,Other
+635102819,mukono,Dairy,Cattle farmers,True,Distance / market access
+635238449,mukono,Dairy,Diary,True,Other
+635860002,mukono,Dairy,Neighbours,True,Other
+636134719,mukono,Dairy,Cattle farmers,True,Distance / market access
+636135880,mukono,Dairy,Cattle farmers,True,Distance / market access
+644152847,mukono,Dairy,Can't afford milk,True,Price / cannot afford
+619306547,mukono,Dairy,Diary in nearby town,True,Distance / market access
+633165535,mukono,Dairy,Neighbours,True,Other
+613827164,nakaseke,Dairy,Too diluted,True,Quality / safety
+588625655,nakaseke,Dairy,The milk is too diluted,True,Quality / safety
+550740078,nakaseke,Dairy,Rapid Disease,True,Pests & diseases
+552802393,nakaseke,Dairy,Putting much water in it,True,Quality / safety
+614807974,mukono,Dairy,Buy from neighbours,True,Other
+617463415,mukono,Dairy,From someones farm,True,Distance / market access
+619547863,mukono,Dairy,Has a cow which can provide a litre a day,True,Other
+621078668,mukono,Dairy,Diary in the nearby town,True,Distance / market access
+624290457,mukono,Dairy,Neighbours,True,Other
+634022985,mukono,Dairy,Neighbours,True,Other
+635238561,mukono,Dairy,Diary,True,Other
+636135365,mukono,Dairy,Cattle farmers,True,Distance / market access
+636136285,mukono,Dairy,Cattle farmers,True,Distance / market access
+586804272,nakaseke,Dairy,Watery milk,True,Quality / safety
+589566299,nakaseke,Dairy,Too diluted milk,True,Quality / safety
+561201812,nakaseke,Dairy,"Sometimes  the milk  is waterly  ,because  so many people want it they tend  to put in much water",True,Quality / safety
+619308856,mukono,Dairy,Can't afford milk,True,Price / cannot afford
+621077765,mukono,Dairy,Diary,True,Other
+623178431,mukono,Dairy,Take dry tea,True,Weather / drought
+630120893,mukono,Dairy,From cattle farmers,True,Distance / market access
+632524617,mukono,Dairy,Cattle farmers,True,Distance / market access
+633861486,mukono,Dairy,Cattle farmers,True,Distance / market access
+635102285,mukono,Dairy,Cattle farmers,True,Distance / market access
+559614978,nakaseke,Dairy,Diseases  and also lack of  enough  market,True,Pests & diseases; Distance / market access
+581570782,nakaseke,Dairy,It's not walkable  distance  hence one needs a bicycle  or a boda,True,Distance / market access
+561200542,nakaseke,Dairy,Kalusu disease attacks  our livestock  especially cows,True,Pests & diseases
+628088416,mukono,Dairy,Trom those with cows,True,Other
+628089405,mukono,Dairy,From farmers with cows,True,Distance / market access
+636135085,mukono,Dairy,Cattle farmers,True,Distance / market access
+629845932,mukono,Dairy,From cattle farmers,True,Distance / market access
+635102642,mukono,Dairy,Cattle farmers,True,Distance / market access
+551439101,nakaseke,Dairy,Money issues,True,Price / cannot afford
+554407800,nakaseke,Dairy,Sometimes  scarcity  of money,True,Price / cannot afford; Availability / seasonal
+581569323,nakaseke,Dairy,Waterly  milk,True,Quality / safety
+564864365,nakaseke,Dairy,Kalusu in our cattle  it's common,True,Other
+620416772,mukono,Dairy,She has taken years without taking milk,True,Other
+620419799,mukono,Dairy,We left that,True,Other
+625315993,mukono,Dairy,Once in a while,True,Availability / seasonal
+630120684,mukono,Dairy,Also have cattle,True,Other
+632531024,mukono,Dairy,Cattle farmers,True,Distance / market access
+619307991,mukono,Dairy,"Diary, neighbour",True,Other
+625318562,mukono,Dairy,From someone's farm,True,Distance / market access
+628776109,mukono,Dairy,From cattle farmers,True,Distance / market access
+633860413,mukono,Dairy,Cattle farmers,True,Distance / market access
+614810845,mukono,Dairy,Doesn't feed on milk due to poverty,True,Other
+589547568,nakaseke,Dairy,The animals  have a disease called  kalusu which  affects them alot,True,Pests & diseases
+592180125,nakaseke,Dairy,Waterly  milk,True,Quality / safety
+583384059,nakaseke,Dairy,Kalusu  it's a disease which affects  us alot it attacks  our livestock,True,Pests & diseases
+584465855,nakaseke,Dairy,"Waterly sometimes, the sellers have a tendency  of adding in more Water to make more profits",True,Quality / safety
+585291611,nakaseke,Dairy,"Waterly milk, they have a tendency  of adding water in d milk in order to make more profits",True,Quality / safety
+588618114,nakaseke,Dairy,Dilute and expensive,True,Price / cannot afford; Quality / safety
+589549118,nakaseke,Dairy,Very waterly  and very expensive,True,Price / cannot afford; Quality / safety
+613185868,nakaseke,Dairy,Waterly and diluted,True,Quality / safety
+586823072,nakaseke,Dairy,A disease  called  kalusu,True,Pests & diseases
+586823179,nakaseke,Dairy,Waterly  milk,True,Quality / safety
+588618032,nakaseke,Dairy,Waterly and high prices,True,Price / cannot afford; Quality / safety
+592179319,nakaseke,Dairy,Very waterly and sometimes it's spoilt,True,Quality / safety
+613184756,nakaseke,Dairy,Kalusu as a disease affects our animals  alot,True,Pests & diseases
+613184762,nakaseke,Dairy,Very waterly milk,True,Quality / safety
+593216705,nakaseke,Dairy,"Very bad milk ,rumor  is that some chemical is added  in the milk to make it last longer but it's bad to us human beings",True,Other
+582448458,nakaseke,Dairy,Sometimes  our animals are affected  by a certain  disease  called  kalusu,True,Pests & diseases
+588618956,nakaseke,Dairy,Waterly and spoilt,True,Quality / safety
+588619984,nakaseke,Dairy,Very dilute and again they  sell it at a high price,True,Price / cannot afford; Quality / safety
+589548430,nakaseke,Dairy,W,False,
+613184214,nakaseke,Dairy,I can't afford sometimes,True,Price / cannot afford
+582449815,nakaseke,Dairy,Not cold n spoilt,True,Quality / safety
+583383783,nakaseke,Dairy,We can't  fair,True,Other
+585919910,nakaseke,Dairy,Since we have cows so we can get milk  instantly,True,Other
+592179023,nakaseke,Dairy,Kalusu disease,True,Pests & diseases
+551439238,nakaseke,Dairy,Prices,True,Price / cannot afford
+555112218,nakaseke,Dairy,Some times w3 find  the milk spoilt,True,Quality / safety
+584458624,nakaseke,Dairy,Kalusu diseases  affects  our animals  alot,True,Pests & diseases
+585290890,nakaseke,Dairy,They sell waterly  milk,True,Quality / safety
+585309665,nakaseke,Dairy,Full of water,True,Quality / safety
+585924133,nakaseke,Dairy,OK,False,
+585929887,nakaseke,Dairy,Do waterly,True,Quality / safety
+613834815,nakaseke,Dairy,High costs,True,Price / cannot afford
+613836978,nakaseke,Dairy,High costs,True,Price / cannot afford
+550715350,nakaseke,Prepared cereals,Far away in the town,True,Distance / market access
+552803832,nakaseke,Prepared cereals,Pest like birds,True,Pests & diseases
+554396495,nakaseke,Prepared cereals,Worm diseases like fall army worm,True,Pests & diseases
+551439754,nakaseke,Prepared cereals,Most,True,Other
+582619340,nakaseke,Prepared cereals,The shops are very far,True,Distance / market access
+588782700,nakaseke,Prepared cereals,Too expensive,True,Price / cannot afford
+588783732,nakaseke,Prepared cereals,Scarce,True,Availability / seasonal
+582502735,nakaseke,Prepared cereals,Some times they lack money to buy,True,Price / cannot afford
+586030936,nakaseke,Prepared cereals,Take long to have it,True,Availability / seasonal
+593198085,nakaseke,Prepared cereals,No money to buy prepared cereals like bread,True,Price / cannot afford; No constraint
+582502398,nakaseke,Prepared cereals,They lack money to buy,True,Price / cannot afford
+583505325,nakaseke,Prepared cereals,Some times distance to reach the shops them from buying prepared cereals because you consider transport and prices,True,Price / cannot afford; Distance / market access
+550740686,nakaseke,Prepared cereals,Far distan,True,Distance / market access
+554395712,nakaseke,Prepared cereals,Pests and diseases like worms,True,Pests & diseases
+555219447,nakaseke,Prepared cereals,Lack land for farming,True,Distance / market access
+588625655,nakaseke,Prepared cereals,Poor quality products on market,True,Distance / market access; Quality / safety
+550740078,nakaseke,Prepared cereals,Some are expired because they overstay there,True,Other
+552802393,nakaseke,Prepared cereals,Pest and disease like distortion,True,Pests & diseases
+553314788,nakaseke,Prepared cereals,Pests,True,Pests & diseases
+561201812,nakaseke,Prepared cereals,They are available,True,Availability / seasonal
+561202655,nakaseke,Prepared cereals,"Since  its a few shops at the trading  centre and there is high population in d neighbouring  villages, things are not enough  for all of us",True,Distance / market access
+557694859,nakaseke,Prepared cereals,Lack of enough  money,True,Price / cannot afford
+581570782,nakaseke,Prepared cereals,We can afford to buy them sometime but it's very far,True,Price / cannot afford; Distance / market access
+558375760,nakaseke,Prepared cereals,No money  to buy them,True,Price / cannot afford; No constraint
+559615316,nakaseke,Prepared cereals,Sometimes  it gets expired  and also spoilt,True,Quality / safety
+560425493,nakaseke,Prepared cereals,Since few people  buy from there somethings  get spoilt  after being there for long,True,Quality / safety
+560425197,nakaseke,Prepared cereals,They are expensive,True,Price / cannot afford
+553316111,nakaseke,Prepared cereals,Very far places,True,Distance / market access
+558374654,nakaseke,Prepared cereals,Since some stay long in the shop they get expired,True,Distance / market access
+581569323,nakaseke,Prepared cereals,Some times  they are expired  since few people  buy items  therefore,True,Other
+564861263,nakaseke,Prepared cereals,Sometimes they are scarce  in the market,True,Distance / market access; Availability / seasonal
+582450581,nakaseke,Prepared cereals,They stay long in the shops and sometimes we find them bad and expired,True,Distance / market access
+581568916,nakaseke,Prepared cereals,Sometimes  they are expired,True,Other
+582449149,nakaseke,Prepared cereals,Sometimes it's outdated,True,Other
+583384059,nakaseke,Prepared cereals,Some over stay in stock because few people can  afford  them and they get expired,True,Price / cannot afford
+584465855,nakaseke,Prepared cereals,Sometimes they get expired,True,Other
+586823072,nakaseke,Prepared cereals,Expensive,True,Price / cannot afford
+586821078,nakaseke,Prepared cereals,Especially  bread it's most times expired and outdated,True,Other
+586823179,nakaseke,Prepared cereals,Expensive,True,Price / cannot afford
+588618032,nakaseke,Prepared cereals,Poor quality,True,Quality / safety
+582448458,nakaseke,Prepared cereals,Sometimes  we buy expired outdated things  forexample flour,True,Other
+583383308,nakaseke,Prepared cereals,Some stay long in shops and the get expired,True,Distance / market access
+586822745,nakaseke,Prepared cereals,Expired sometimes,True,Other
+552805506,nakaseke,Prepared cereals,High prices,True,Price / cannot afford
+582449815,nakaseke,Prepared cereals,They bring few things which can't be available  for all the community,True,Availability / seasonal
+583383783,nakaseke,Prepared cereals,Long distances,True,Distance / market access
+585919910,nakaseke,Prepared cereals,Sometimes  they are unavailable  and we get to boda to kiwoko town,True,Distance / market access; Availability / seasonal
+555070994,nakaseke,Prepared cereals,Yellowish  leaves  at the time of growing  which affected  alot,True,Other
+555112218,nakaseke,Prepared cereals,Shops are found  in far places  which requires  a bicycle  or a boda,True,Distance / market access
+585290674,nakaseke,Prepared cereals,Sometimes we find them expired,True,Other
+585290890,nakaseke,Prepared cereals,They sell expired  things which have stayed for a very long period of time,True,Other
+585924133,nakaseke,Prepared cereals,Sometimes  they get expired,True,Other
+613834815,nakaseke,Prepared cereals,Prices,True,Price / cannot afford
+613836978,nakaseke,Prepared cereals,Expensive cost,True,Price / cannot afford
+616677841,mukono,Roots & tubers,Some days buy from people who have them in their gardens,True,Other
+592191523,nakaseke,Roots & tubers,"Rotting in cassava, too much sun shine makes cassava to become sour",True,Pests & diseases; Weather / drought
+552803559,nakaseke,Roots & tubers,Pests and disease  like worms,True,Pests & diseases
+613831899,nakaseke,Roots & tubers,Zibugo and mosaic affects their cassava,True,Pests & diseases
+556046788,nakaseke,Roots & tubers,Attacked by pests and dieses,True,Pests & diseases
+552803832,nakaseke,Roots & tubers,Worm like disease and pests like rats,True,Pests & diseases
+553311655,nakaseke,Roots & tubers,Sometimes the cassava gets sour,True,Other
+554396495,nakaseke,Roots & tubers,Pest and diseases,True,Pests & diseases
+613810847,nakaseke,Roots & tubers,"Mosaic on leaves and then later distortion due insects on cassava leaves ,too much heat in soil makes roots in cassava roots",True,Pests & diseases; Weather / drought
+559615651,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+581728335,nakaseke,Roots & tubers,They are attached by pests and rodents,True,Pests & diseases
+588781706,nakaseke,Roots & tubers,Too much drought which makes the cassava sore,True,Weather / drought
+592193539,nakaseke,Roots & tubers,Weather conditions are unfavorable to crops,True,Weather / drought
+613822490,nakaseke,Roots & tubers,Drought and  then crops die off,True,Weather / drought
+613825443,nakaseke,Roots & tubers,Mosaic and fungal infections affects their cassava,True,Pests & diseases
+618055484,mukono,Roots & tubers,Buys from fellow farmers,True,Distance / market access
+588782700,nakaseke,Roots & tubers,The soils a Burren of which they give us few outputs,True,Other
+555219512,nakaseke,Roots & tubers,A DISEASE called  zibugo that causes rotting of roots and tubers,True,Pests & diseases
+586805028,nakaseke,Roots & tubers,Rats in garden and rotting  of cassava root,True,Pests & diseases
+592192218,nakaseke,Roots & tubers,Worms on potatos leaves,True,Pests & diseases
+586026956,nakaseke,Roots & tubers,Cassava mosic on the leaves,True,Other
+582502735,nakaseke,Roots & tubers,White insects and caterpillars in potatos,True,Pests & diseases
+586030936,nakaseke,Roots & tubers,Sour cassava (okukawa),True,Other
+559666954,nakaseke,Roots & tubers,You can't get good yields when not sprayed,True,Other
+586809899,nakaseke,Roots & tubers,Rats and squirrel in the garden and cassava mosaic,True,Pests & diseases
+555219650,nakaseke,Roots & tubers,Diseases like rotting  sweet potatoes are not ready,True,Pests & diseases
+589566940,nakaseke,Roots & tubers,"Cassava mosic in cassava and caterpillars, insects in potatos leaves",True,Pests & diseases
+585181910,nakaseke,Roots & tubers,Like some cassava are affected by the  mosic and also another are sour,True,Other
+553313598,nakaseke,Roots & tubers,Diseases like mosic,True,Pests & diseases
+555219886,nakaseke,Roots & tubers,Diseases in cassava like mosic,True,Pests & diseases
+561236657,nakaseke,Roots & tubers,Diseases like okugengewala,True,Pests & diseases
+613814407,nakaseke,Roots & tubers,Rotting of cassava roots due to heating of the soils(sunshine),True,Pests & diseases; Weather / drought
+616679140,mukono,Roots & tubers,"Being a farmer, grows crops for both home consumption and sale",True,Distance / market access
+634718078,mukono,Roots & tubers,Neighbours,True,Other
+593198085,nakaseke,Roots & tubers,Mosaic and distortion of cassava leaves,True,Pests & diseases
+561237697,nakaseke,Roots & tubers,It affected with ekigenge,True,Other
+582502398,nakaseke,Roots & tubers,Diseases in cassava like ebigave which turnes cassava with black  and yellow stripes,True,Pests & diseases
+586028388,nakaseke,Roots & tubers,Cassava mosic and cassava brown streak diseases (ebigave) hence reduction in yeids,True,Pests & diseases
+613819661,nakaseke,Roots & tubers,Rotting of cassava stems,True,Pests & diseases
+560449000,nakaseke,Roots & tubers,Diseases like okugengewara,True,Pests & diseases
+583505325,nakaseke,Roots & tubers,Some times roots and tuber crops are attacked by caterpillars  white flies on the leaves,True,Other
+585193571,nakaseke,Roots & tubers,Distortion of cassava leaves and mosaic affects their cassava  hence low yeids,True,Pests & diseases
+550739292,nakaseke,Roots & tubers,Climatic changes  disturb another n pests,True,Pests & diseases
+550740686,nakaseke,Roots & tubers,PESTS AND DISEASES,True,Pests & diseases
+552803009,nakaseke,Roots & tubers,Disease and pests,True,Pests & diseases
+554395712,nakaseke,Roots & tubers,Pest and diseases like worm,True,Pests & diseases
+585208171,nakaseke,Roots & tubers,Cassava mosic,True,Other
+613829595,nakaseke,Roots & tubers,Mosaic and distortion of cassava leaves hence rotting of cassava stems,True,Pests & diseases
+559666632,nakaseke,Roots & tubers,Pests and diseases affects their crops when they have not sprayed,True,Pests & diseases
+614850459,mukono,Roots & tubers,On some days of the week,True,Other
+585223034,nakaseke,Roots & tubers,Cassava mosic is rampant,True,Other
+613827164,nakaseke,Roots & tubers,Distortion of cassava leaves  and mosaic affects their cassava plantations and then potatos are affected by caterpillars on the leaves,True,Pests & diseases
+588625655,nakaseke,Roots & tubers,Caterpillars on the potato leaves are more rampant,True,Other
+550740078,nakaseke,Roots & tubers,Continously climatic changes n disease,True,Pests & diseases
+552802393,nakaseke,Roots & tubers,Pests and disease  like cassava mosic,True,Pests & diseases
+553314788,nakaseke,Roots & tubers,Diseases,True,Pests & diseases
+557694485,nakaseke,Roots & tubers,Pests,True,Pests & diseases
+557694682,nakaseke,Roots & tubers,Pests,True,Pests & diseases
+557713215,nakaseke,Roots & tubers,Potatos are affected by worms,True,Pests & diseases
+558375556,nakaseke,Roots & tubers,Tubers  are always  eaten by the kisokomi which affects all of it,True,Other
+592192864,nakaseke,Roots & tubers,"Weather conditions make root and tubers to get spoiled like (okuwumba),(ekiwuta)",True,Weather / drought; Quality / safety
+557715625,nakaseke,Roots & tubers,Lacking land to grow  crops,True,Other
+586804272,nakaseke,Roots & tubers,"Pests and diseases like rats ,squirrel and some are sour",True,Pests & diseases
+550738751,nakaseke,Roots & tubers,Lack of money to pay labourers therefore  they have to dig by them selves,True,Price / cannot afford
+589566299,nakaseke,Roots & tubers,Cassava mosic on leaves,True,Other
+556042851,nakaseke,Roots & tubers,Some times they are sour because  they keep  them for a long period  of time,True,Other
+581667076,nakaseke,Roots & tubers,"Caterpillars in potatos, cassava mosic",True,Other
+561201812,nakaseke,Roots & tubers,Usually attacked  by pests and diseases,True,Pests & diseases
+561202655,nakaseke,Roots & tubers,Cassava has a certain disease which makes it sour at harvesting  time,True,Pests & diseases
+552806909,nakaseke,Roots & tubers,"The common one here is refered  to as "" kisokomi"" it eats n affects  the tubers alot",True,Other
+557694859,nakaseke,Roots & tubers,Roots and tubers  are attacked  by some caterpillars,True,Other
+589566059,nakaseke,Roots & tubers,Mosaics and caterpillars are rampant in cassava and potatos leaves,True,Pests & diseases
+613820537,nakaseke,Roots & tubers,Insects like Web Insects and caterpillars,True,Pests & diseases
+617460629,mukono,Roots & tubers,Also grows crops,True,Other
+618502638,mukono,Roots & tubers,Buys from fellow farmers,True,Distance / market access
+554408234,nakaseke,Roots & tubers,Some caterpillar  which eats especially  the roots hence destroying  the whole  plantation,True,Other
+556042141,nakaseke,Roots & tubers,Pests  and diseases,True,Pests & diseases
+559614978,nakaseke,Roots & tubers,If we don't spray we can't  harvest  anything,True,Other
+581570782,nakaseke,Roots & tubers,The leaves sometimes become yellowish and the stem dries,True,Other
+553316435,nakaseke,Roots & tubers,Pests and diseases and not available market,True,Pests & diseases; Distance / market access; Availability / seasonal
+558375760,nakaseke,Roots & tubers,Caterpillars  attack the roots,True,Other
+559615316,nakaseke,Roots & tubers,If not sprayed  we get nothing  but when we spray we harvest  and get some money,True,Price / cannot afford
+560425493,nakaseke,Roots & tubers,Pests,True,Pests & diseases
+560424556,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+561200542,nakaseke,Roots & tubers,Yellowish  leaves especially  cassava it affects  us alot,True,Other
+561202398,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+560425197,nakaseke,Roots & tubers,We have  caterpillars  that affects  the roots which in d long run  damages  the whole plantation,True,Other
+556039009,nakaseke,Roots & tubers,There is  a certain  type  of caterpillar  that eats the tubers  at an early  stage hence hindering  the growth and also something they call kisokomi it eats all the leaves,True,Other
+553316712,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+560423470,nakaseke,Roots & tubers,Some  common  disease in the area where leaves turn yellowish,True,Pests & diseases
+551439101,nakaseke,Roots & tubers,"Change  of climatic  seasons ,diseases",True,Pests & diseases; Availability / seasonal
+553316111,nakaseke,Roots & tubers,Expensive.,True,Price / cannot afford
+554407800,nakaseke,Roots & tubers,At  harvesting  time cassava  becomes rotten  and sour due to caterpillar,True,Pests & diseases
+558374654,nakaseke,Roots & tubers,Caterpillars  often  the tubers if not sprayed,True,Other
+558375246,nakaseke,Roots & tubers,If not sprayed  they get infected  by pest and diseases,True,Pests & diseases
+581569323,nakaseke,Roots & tubers,The disease that affects  the tubers  is called zibugo,True,Pests & diseases
+581571879,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+564861263,nakaseke,Roots & tubers,Especially cassava  it's affected  by some diseases which affects the leaves,True,Pests & diseases
+559615143,nakaseke,Roots & tubers,Especially cassava  its attacked  by a disease which makes the leaves  turn yellowish  if not sprayed,True,Pests & diseases
+553315619,nakaseke,Roots & tubers,Not any problem  for  now it's from her garden,True,No constraint
+556039301,nakaseke,Roots & tubers,Since they rent land for growing cassava and potatoes  it's for specific seasons,True,Availability / seasonal
+615757479,mukono,Roots & tubers,Dig own food,True,Other
+557694292,nakaseke,Roots & tubers,Pests  and diseases  which make especially  the cassava  sour at the time of harvesting,True,Pests & diseases
+582450581,nakaseke,Roots & tubers,Pests  and diseases,True,Pests & diseases
+613185259,nakaseke,Roots & tubers,Cassava mozaic,True,Other
+551438934,nakaseke,Roots & tubers,Diseases  forecastle cassava rotten and becomes sour most time and potatoes  leaves are eaten by green smaller caterpillars when not sprayed,True,Pests & diseases; Quality / safety
+589548879,nakaseke,Roots & tubers,Caterpillars  eat our leaves,True,Other
+554402613,nakaseke,Roots & tubers,A small type of  caterpillar which attacks  the tubers,True,Quality / safety
+589547568,nakaseke,Roots & tubers,Cassava mozaic and sourness,True,Other
+592180125,nakaseke,Roots & tubers,Caterpillars which leaves,True,Other
+613185864,nakaseke,Roots & tubers,Diseases,True,Pests & diseases
+593216040,nakaseke,Roots & tubers,We have a caterpillar cuts every leaf.,True,Other
+552806578,nakaseke,Roots & tubers,Kisokomi and another termite like insect which affects  them alot,True,Pests & diseases
+554997531,nakaseke,Roots & tubers,At the time when it's growing  it's affected by some diseases which makes  it sour the cassava,True,Pests & diseases
+581568916,nakaseke,Roots & tubers,Lack of market  for the produce,True,Distance / market access
+582449149,nakaseke,Roots & tubers,If well looked after for example  proper spacing at planting and proper weeding for us here we don't need to apply  any fertilisers,True,Other
+583384059,nakaseke,Roots & tubers,If we don't apply  fertilisers we don't get anything  at the end of the month,True,Other
+584465855,nakaseke,Roots & tubers,Sometimes yellowish leaves to the cassava especially at harvesting,True,Other
+585291611,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+588618114,nakaseke,Roots & tubers,Squirrels and caterpillars,True,Other
+589549118,nakaseke,Roots & tubers,Cassava mozaic,True,Other
+613185857,nakaseke,Roots & tubers,Pests and diseases for example cassava mozaic,True,Pests & diseases
+613185868,nakaseke,Roots & tubers,Cassava mozaic and caterpillars,True,Other
+613185262,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+586823072,nakaseke,Roots & tubers,Cassava mozaic,True,Other
+586821078,nakaseke,Roots & tubers,Pests and   diseases most  especially the squirrels,True,Pests & diseases
+586823179,nakaseke,Roots & tubers,Cassava mozaic,True,Other
+588618032,nakaseke,Roots & tubers,Cassava  mozaic,True,Other
+592179319,nakaseke,Roots & tubers,Cassava  mozaic,True,Other
+613185254,nakaseke,Roots & tubers,Mozaic,True,Other
+613184756,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+613184762,nakaseke,Roots & tubers,Pests,True,Pests & diseases
+593216705,nakaseke,Roots & tubers,We have a certain kisokomi which disturbs us alot,True,Other
+582448458,nakaseke,Roots & tubers,When fertilisers  are applied  we get money  from them,True,Price / cannot afford
+583383308,nakaseke,Roots & tubers,They are attacked  by pests and diseases if no fertilisers,True,Pests & diseases
+584457728,nakaseke,Roots & tubers,Sickly now can't do all the work  in the garden by myself  yet I don't even have money to pay casual labourers,True,Price / cannot afford
+584460556,nakaseke,Roots & tubers,We have them and we can eat them wherever we feel like but that's is after  application  of fertilisers,True,Other
+586822745,nakaseke,Roots & tubers,Cassava mozaic,True,Other
+588618956,nakaseke,Roots & tubers,Cassava mozaic,True,Other
+588619984,nakaseke,Roots & tubers,Cassava mozaic  and sometimes in the market  the cassava  we buy is sour and tasteless,True,Distance / market access
+589548430,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+613184214,nakaseke,Roots & tubers,Squirrels  n bisokomi,True,Other
+551438775,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+552805506,nakaseke,Roots & tubers,Pests and diseases  known as kisokomi and lack of fertilisers,True,Pests & diseases
+582449815,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+583384470,nakaseke,Roots & tubers,Diseases,True,Pests & diseases
+585919910,nakaseke,Roots & tubers,The caterpillars  attack the roots of the potatoes and to the cassava a certain  attacks  and all leaves  turn yellowish,True,Other
+585937638,nakaseke,Roots & tubers,Pests  n diseases,True,Pests & diseases
+592179023,nakaseke,Roots & tubers,No fertilisers  we yield nothing,True,No constraint
+551439238,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+555070994,nakaseke,Roots & tubers,Pests  and diseases  especially ekisokomi which affects  the cassava  and the potatoes,True,Pests & diseases
+555112218,nakaseke,Roots & tubers,Pests and diseases  especially  that one referred to as kisokomi  which affects  the tubers,True,Pests & diseases
+555148547,nakaseke,Roots & tubers,Pests,True,Pests & diseases
+584458624,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+585290674,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+585290890,nakaseke,Roots & tubers,We have a certain disease  which turns the leaves  yellowish and hence  destroying  the whole plant,True,Pests & diseases
+585309665,nakaseke,Roots & tubers,Pests and diseases,True,Pests & diseases
+585924133,nakaseke,Roots & tubers,When well taken off and applying some fertilisers we get what  to eat and sell too,True,Other
+585929887,nakaseke,Roots & tubers,Pests,True,Pests & diseases
+613834815,nakaseke,Roots & tubers,Pron to disease,True,Pests & diseases
+616677841,mukono,Legumes,Incase money is got we buy from other people who have,True,Price / cannot afford
+592191523,nakaseke,Legumes,Insects and worms,True,Pests & diseases
+613831899,nakaseke,Legumes,"Weather conditions are unfavorable  to crops and kiwotokwa, distortion of leaves due to insects attack",True,Pests & diseases; Weather / drought
+552803832,nakaseke,Legumes,Diseases like distortion,True,Pests & diseases
+554396495,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+613810847,nakaseke,Legumes,"Kiwotokwa affects their bean and then die off ,weather conditions are unfavorable like too much sunshine hence low yeids harvested",True,Pests & diseases; Weather / drought
+554388188,nakaseke,Legumes,..,False,
+559615651,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+613822490,nakaseke,Legumes,Kiwotokwa affects their bean and gnuts,True,Pests & diseases
+613825443,nakaseke,Legumes,Distortion and insects infection surrounding bean leaves,True,Pests & diseases
+555219512,nakaseke,Legumes,"Seeds failure to germinate ,there is distortion  of the leaves",True,Other
+561200684,nakaseke,Legumes,They are attacked by rats,True,Pests & diseases
+586805028,nakaseke,Legumes,Worms and rats in garden affects their,True,Pests & diseases
+592192218,nakaseke,Legumes,Insects like muyera and worms in beans and gnuts,True,Pests & diseases
+586026956,nakaseke,Legumes,Kiwotokwa affects their  bean garden,True,Pests & diseases
+582502735,nakaseke,Legumes,Black  insects and therefore you fast spray to benefit,True,Pests & diseases
+586030936,nakaseke,Legumes,Too  much sunshine and kiwotokwa in beans,True,Pests & diseases; Weather / drought
+559666954,nakaseke,Legumes,You can't get yields when you haven't sprayed,True,Other
+555219650,nakaseke,Legumes,"Distortion of the leaves ,in bean it starts to become yellow and then dry off",True,Weather / drought
+581666974,nakaseke,Legumes,They are attacked by spiders,True,Other
+589566940,nakaseke,Legumes,Blight is too rampant in beans and weather is unfavorable for crops to grow well,True,Pests & diseases; Weather / drought
+553313598,nakaseke,Legumes,Distortion of the leaves,True,Other
+555219886,nakaseke,Legumes,Affected with insects when fruiting,True,Pests & diseases
+561236657,nakaseke,Legumes,They affected by diseases like kiwotokwa,True,Pests & diseases
+583502844,nakaseke,Legumes,Distortion of the leaves in ground nuts kiwotokwa I n beans,True,Pests & diseases
+588619360,nakaseke,Legumes,Kiwotokwa affects their beans and ground nuts,True,Pests & diseases
+613814407,nakaseke,Legumes,Insects like muyera on beans leaves makes plants not bear fruits because every flower drops down low productivity,True,Pests & diseases
+634718078,mukono,Legumes,Neighbours,True,Other
+581719428,nakaseke,Legumes,Distortion  of the leaves,True,Other
+593198085,nakaseke,Legumes,Kiwotokwa affects their bean and distortion of the bean leaves due to insects,True,Pests & diseases
+561237697,nakaseke,Legumes,It's affected with ekiwotokwa,True,Pests & diseases
+582502398,nakaseke,Legumes,Beans becomes yellowish and then die off,True,Other
+586028388,nakaseke,Legumes,Most legume grower are being  affected by too much sunshine hence low production,True,Weather / drought
+613819661,nakaseke,Legumes,When not sprayed you can't harvest more yeids cause they are affected  by insects,True,Pests & diseases
+560449000,nakaseke,Legumes,Diseases like ekibabuko,True,Pests & diseases
+583505325,nakaseke,Legumes,On farm some times bean are attacked by kiwotokwa which causes yellowing  leaves and and then die off when not ready,True,Pests & diseases; Distance / market access
+613821415,nakaseke,Legumes,Prolonged drought that made crops to die off and insects infection  kiwotookwa,True,Pests & diseases; Weather / drought
+561257600,nakaseke,Legumes,"They are affected with kiwotoka,signs like yellowing of the leaves",True,Other
+585193571,nakaseke,Legumes,Too much sun shine in this season  made them not benefit,True,Weather / drought; Availability / seasonal
+550739292,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+550740686,nakaseke,Legumes,"Pests and diseases, lack of fertilisers",True,Pests & diseases
+552803009,nakaseke,Legumes,Pests and disease,True,Pests & diseases
+554395712,nakaseke,Legumes,Pests and diseases like maggot and insect,True,Pests & diseases
+581666409,nakaseke,Legumes,Distortion of  leafs due to spider attack,True,Other
+613829595,nakaseke,Legumes,Insects infection and leave liners on  bean leaves,True,Pests & diseases
+559666632,nakaseke,Legumes,If you don't sprayed no good yields,True,Other
+582503421,nakaseke,Legumes,Yellowing of the leaves and then die off,True,Other
+613827164,nakaseke,Legumes,Distortion of the due to insects infection,True,Pests & diseases
+588625655,nakaseke,Legumes,Kiwotookwa affects their beans,True,Other
+550740078,nakaseke,Legumes,Bad weather conditions and diseases,True,Pests & diseases; Weather / drought
+552802393,nakaseke,Legumes,Pest and disease like distortion,True,Pests & diseases
+553314788,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+557694485,nakaseke,Legumes,Caterpillar affects  alot,True,Other
+557694682,nakaseke,Legumes,At the time of harvesting  especially  beans leaves  are affected,True,Other
+557713215,nakaseke,Legumes,High yeids but low prices,True,Price / cannot afford
+558375556,nakaseke,Legumes,Pests  and diseases,True,Pests & diseases
+565368815,nakaseke,Legumes,They affected by yellowing and then dry off,True,Weather / drought
+592192864,nakaseke,Legumes,Distortion of bean leaves due to insects infection and poor weather conditions,True,Pests & diseases; Weather / drought
+617462488,mukono,Legumes,In the garden,True,Other
+617463415,mukono,Legumes,Has a shop at home,True,Distance / market access
+586804272,nakaseke,Legumes,"Pests and diseases like worms ,rat ,squirrel and kiwotokwa affects their legumes",True,Pests & diseases
+550738751,nakaseke,Legumes,"Not all that is planted grows,maybe because  of bad land n change of climate",True,Other
+589566299,nakaseke,Legumes,Insects like,True,Pests & diseases
+556042851,nakaseke,Legumes,Pests  and diseases,True,Pests & diseases
+581667076,nakaseke,Legumes,"Weather conditions like too much sun shine in the area ,they attacked by spider and then  later distortion of leafs",True,Weather / drought
+561201812,nakaseke,Legumes,If not sprayed  we can't harvest  any thing,True,Other
+561202655,nakaseke,Legumes,Sometimes we don't have market  for our produce,True,Distance / market access
+557694859,nakaseke,Legumes,We have a problem  of kisokomi which affects  us alot,True,Other
+589566059,nakaseke,Legumes,Blight in beans and also weather conditions like too much sunshine hence low productivity,True,Pests & diseases; Weather / drought
+613820537,nakaseke,Legumes,"Kiwotokwa affects their bean and ground nuts ,insects like   muyera ,drought also affect too",True,Pests & diseases; Weather / drought
+554408234,nakaseke,Legumes,Pests and d,True,Pests & diseases
+556042141,nakaseke,Legumes,Pests  and diseases  especially  the one called  kisokomi,True,Pests & diseases
+559614978,nakaseke,Legumes,"Pests ,caterpillars  which affects  us alot especially  when not sprayed",True,Pests & diseases
+581570782,nakaseke,Legumes,Pests affects us alot,True,Pests & diseases
+553316435,nakaseke,Legumes,Small caterpillar like insects that eat the leaves,True,Pests & diseases; Quality / safety
+558375760,nakaseke,Legumes,Lack of money  to spray and apply fertilisers,True,Price / cannot afford
+559615316,nakaseke,Legumes,Pests,True,Pests & diseases
+560425493,nakaseke,Legumes,Leaves normally  get yellowish,True,Other
+561200542,nakaseke,Legumes,Caterpillars  attacks  the legumes  from an early  stage,True,Other
+560425197,nakaseke,Legumes,Pests and  diseases  disturb us alot,True,Pests & diseases
+553316712,nakaseke,Legumes,Diseases which attack especially  the leaves,True,Pests & diseases
+551439101,nakaseke,Legumes,"Harvests are not good, seasons keep changing  and lack of money to buy fertilisers",True,Price / cannot afford; Availability / seasonal
+553316111,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+554407800,nakaseke,Legumes,Yellowish  leaves at harvesting  time,True,Other
+558374654,nakaseke,Legumes,If not sprayed  they can't harvest any thing some times its the soil type and insects down,True,Pests & diseases
+558375246,nakaseke,Legumes,Pests are disturbing alot if not sprayed,True,Pests & diseases
+581569323,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+564861263,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+559615143,nakaseke,Legumes,If not sprayed  we don't harvest,True,Other
+564864365,nakaseke,Legumes,Caterpillars attacks  the whole  plantation,True,Other
+553315619,nakaseke,Legumes,Without  fertilisers she can't harvest,True,Other
+556039301,nakaseke,Legumes,She  rents land for some seasons  to grow legumes  sometimes money  isnot available,True,Price / cannot afford; Availability / seasonal
+557694292,nakaseke,Legumes,A caterpillar  like insect  attacks  the maize at an early  stage,True,Pests & diseases
+582450581,nakaseke,Legumes,Diseases  attack them alot especially when they arenot sprayed,True,Pests & diseases
+551438934,nakaseke,Legumes,Leaves for the beans become yellowish,True,Other
+554402613,nakaseke,Legumes,Pests  and diseases,True,Pests & diseases
+589547568,nakaseke,Legumes,The leaves are eaten  by caterpillars  which affects  the whole plantation,True,Other
+592180125,nakaseke,Legumes,Potatoes  leaves are eaten  by caterpillars  and it ends up making  the legume  become soar,True,Other
+613185864,nakaseke,Legumes,Pests and d and also if not sprayed we get nothing,True,Pests & diseases
+552806578,nakaseke,Legumes,Diseases  it attacks the leaves  hence affecting the whole  plantation,True,Pests & diseases
+554997531,nakaseke,Legumes,When leaves  start to come out they turn yellowish,True,Other
+581568916,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+582449149,nakaseke,Legumes,Since we have fertile soils it favours us alot and sometimes  we don't to apply  fertilisers,True,Other
+583384059,nakaseke,Legumes,Once we apply fertilisers and other organic manures we achieve  something  at the of the month,True,Other
+584465855,nakaseke,Legumes,Pests,True,Pests & diseases
+588618114,nakaseke,Legumes,Distortion of leaves by the insects,True,Pests & diseases
+613185868,nakaseke,Legumes,Sometimes  when we don't  apply fertilisers  they are affected  alot by the pests  and diseases,True,Pests & diseases
+613185262,nakaseke,Legumes,Small worms and caterpillars have a tendency  of eating  leaves,True,Pests & diseases; Quality / safety
+586823072,nakaseke,Legumes,Poor quality  seedlings disturb  us alot,True,Quality / safety
+586821078,nakaseke,Legumes,There's a mozaic which affects  the legumes alot,True,Other
+586823179,nakaseke,Legumes,Squirrels  attack the legumes alot,True,Other
+592179319,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+613184756,nakaseke,Legumes,Squirrels  and rodents,True,Other
+583383308,nakaseke,Legumes,Diseases,True,Pests & diseases
+584460556,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+586822745,nakaseke,Legumes,Squirrels,True,Other
+588618956,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+588619984,nakaseke,Legumes,Squirrels and caterpillars,True,Other
+589548430,nakaseke,Legumes,Small carepillars,True,Quality / safety
+551438775,nakaseke,Legumes,Pests n diseases yellowish rotten leaves on harvesting  time,True,Pests & diseases
+552805506,nakaseke,Legumes,Pests  and diseases,True,Pests & diseases
+582449815,nakaseke,Legumes,Pests,True,Pests & diseases
+583383783,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+583384470,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+585919910,nakaseke,Legumes,When fertilisers are applied we get good  quality,True,Quality / safety
+585937638,nakaseke,Legumes,Caterpillars eat them alot,True,Other
+592179023,nakaseke,Legumes,Pests  and diseases,True,Pests & diseases
+555070994,nakaseke,Legumes,Expensive especially  beans and also u find rotten  things  being sold,True,Pests & diseases; Price / cannot afford
+555112218,nakaseke,Legumes,There  is  a problem  of caterpillars which eats  the leaves,True,Other
+584458624,nakaseke,Legumes,When fertilisers  not applied we don't harvest anything,True,Other
+585290674,nakaseke,Legumes,Pests and diseases,True,Pests & diseases
+585290890,nakaseke,Legumes,Pests  and diseases,True,Pests & diseases
+585309665,nakaseke,Legumes,Poor quality,True,Quality / safety
+585929887,nakaseke,Legumes,.,False,
+616677841,mukono,Fruits,No money,True,Price / cannot afford; No constraint
+613810847,nakaseke,Fruits,Mangoes shades off  when they are not ready,True,Other
+581728335,nakaseke,Fruits,Attached by worms,True,Pests & diseases
+581800534,nakaseke,Fruits,They are attached by worms,True,Pests & diseases
+592193539,nakaseke,Fruits,Fungal infections,True,Other
+613822490,nakaseke,Fruits,Insects,True,Pests & diseases
+613825443,nakaseke,Fruits,"Fungal infections and hardness, dot with black colour in their fruits",True,Other
+615755561,mukono,Fruits,Got from the garden,True,Other
+592192218,nakaseke,Fruits,Are attacked by fungal infections,True,Other
+553313598,nakaseke,Fruits,Pests and diseases,True,Pests & diseases
+613814407,nakaseke,Fruits,Black dot on oranges and mangoes then cause hardening of the fruit are more so in oranges and then rotting in mangoes,True,Pests & diseases
+593198085,nakaseke,Fruits,"Fungal infections in mangoes  ,oranges and banana wilt in banana that leads to yellowing of banana leaves and then die off",True,Other
+583505325,nakaseke,Fruits,"Oranges are attacked by rusty dots on the leaves, and banana  attacked by banana by yellowing of the banana leaves",True,Other
+585193571,nakaseke,Fruits,Some  oranges are affected by rusty dots on the leaves hence slow  growth,True,Other
+622288485,mukono,Fruits,His fruits are badly affected by pests,True,Pests & diseases
+559666632,nakaseke,Fruits,Dropping down flowers,True,Other
+614850459,mukono,Fruits,Only on Sunday,True,Weather / drought
+558418973,nakaseke,Fruits,Banana are faced with banana wilt,True,Other
+613827164,nakaseke,Fruits,"Banana wilt, black insects like kasa and kayovu",True,Pests & diseases
+588625655,nakaseke,Fruits,Scarcity of some fruits,True,Availability / seasonal
+552802393,nakaseke,Fruits,Pest and disease   like fungal infections,True,Pests & diseases
+553314788,nakaseke,Fruits,Rotting of the fruit,True,Pests & diseases
+557713215,nakaseke,Fruits,"Banana wilt, pests and diseases",True,Pests & diseases
+592192864,nakaseke,Fruits,Fungal infections,True,Other
+586804272,nakaseke,Fruits,"Banana wilt, kayovu(they is too yellowing of  the banana  leaves and also kasa in banana plantations",True,Other
+550738751,nakaseke,Fruits,Pests n sometimes especially  mangoes they get rotten at harvesting time it's a major problem,True,Pests & diseases
+552806909,nakaseke,Fruits,More farmers harvest  un ready fruits  and they  sell them,True,Distance / market access
+557694859,nakaseke,Fruits,Trees normally  bring flowers  which eventually  bring  fruits,True,Other
+589566059,nakaseke,Fruits,Some fruits on the farms like mangoes affected with black dots and later starts  rotting,True,Pests & diseases; Distance / market access
+613820537,nakaseke,Fruits,Fungal infections and leave liners on orange leaves,True,Other
+581570782,nakaseke,Fruits,Pests  and diseases,True,Pests & diseases
+560425197,nakaseke,Fruits,They have some disease which attacks  the flowers and yet its the  flowers  that eventually brings  out the fruits,True,Pests & diseases
+551439101,nakaseke,Fruits,If not sprayed  they die and they make looses,True,Other
+558374654,nakaseke,Fruits,"Also if they  arenot sprayed, the flower  part all falls off",True,Other
+558375246,nakaseke,Fruits,Flowers  normally  fall off and yet its the Flowers  that bring  out the fruits  especially  mangoes,True,Other
+564864365,nakaseke,Fruits,They  are attacked  by pests and diseases,True,Pests & diseases
+557694292,nakaseke,Fruits,Small caterpillars eat the leaves,True,Quality / safety
+582450581,nakaseke,Fruits,At the flowering stage when fruits  are coming out the flowers fall off,True,Other
+551438934,nakaseke,Fruits,Diseases it attacks the leaves  slowly once the whole tree is affected no more fruits,True,Pests & diseases
+583384059,nakaseke,Fruits,We get to eat alot of fruits  during the season,True,Availability / seasonal
+584465855,nakaseke,Fruits,Our fruit trees are old,True,Other
+585291611,nakaseke,Fruits,A certain  caterpillar eats the flowers,True,Other
+586823072,nakaseke,Fruits,"We sprayed  well  ,it helps us yield  alot of profits",True,Other
+588618032,nakaseke,Fruits,Scarcity,True,Availability / seasonal
+592179319,nakaseke,Fruits,The disease affects  the flowers  which bring out,True,Pests & diseases
+582448458,nakaseke,Fruits,No problems every season  we get fruits  because we put fertilisers,True,Availability / seasonal; No constraint
+586822745,nakaseke,Fruits,When sprayed properly we yield alot at harvesting time,True,Other
+582449815,nakaseke,Fruits,Our trees are attacked  by a certain disease which affects  the leaves and the flowers yet its the fruits  that bring out fruits  hence making us get few fruits during the season,True,Pests & diseases; Availability / seasonal
+555070994,nakaseke,Fruits,There is a certain  disease  that affect  the leaves  and make them look like they were burnt  and a tree can loose all the trees  if not spread,True,Pests & diseases
+585309665,nakaseke,Fruits,Very expensive,True,Price / cannot afford
+616677841,mukono,Cooking oil,Once in a while,True,Availability / seasonal
+592191523,nakaseke,Cooking oil,"Lacking money to buy, some times they eat foods with out oil",True,Price / cannot afford
+552803832,nakaseke,Cooking oil,Measurements don't meet the cost price,True,Price / cannot afford
+558378029,nakaseke,Cooking oil,.,False,
+613810847,nakaseke,Cooking oil,Also distance to reach the trading center,True,Distance / market access
+559615651,nakaseke,Cooking oil,Shops are too far,True,Distance / market access
+613825443,nakaseke,Cooking oil,Some times they eat with oil,True,Other
+615755561,mukono,Cooking oil,From the nearby shop. In large quantity from the market,True,Distance / market access
+555219650,nakaseke,Cooking oil,Trading  is far  them,True,Distance / market access
+551438282,nakaseke,Cooking oil,Distance to reach shop,True,Distance / market access
+553313598,nakaseke,Cooking oil,Distance to visit the trading center,True,Distance / market access
+588629366,nakaseke,Cooking oil,Too much fake oils on market,True,Distance / market access
+593198085,nakaseke,Cooking oil,Some times no oils in the food because of shortage of money,True,Price / cannot afford
+582502398,nakaseke,Cooking oil,Some times they luck money to buy,True,Price / cannot afford
+550739292,nakaseke,Cooking oil,Expensive,True,Price / cannot afford
+550740686,nakaseke,Cooking oil,Some are expired n scarce,True,Availability / seasonal
+552803009,nakaseke,Cooking oil,Prices keeps on changing,True,Price / cannot afford
+552802393,nakaseke,Cooking oil,Lacking money to buy,True,Price / cannot afford
+557694485,nakaseke,Cooking oil,Long distance  to the shop,True,Distance / market access
+558375556,nakaseke,Cooking oil,Lack of enough  money,True,Price / cannot afford
+617463415,mukono,Cooking oil,Has a retail shop at home,True,Distance / market access
+619547863,mukono,Cooking oil,Mostly use groundnuts,True,Other
+556042851,nakaseke,Cooking oil,No problems  shops  are near,True,Distance / market access; No constraint
+561201812,nakaseke,Cooking oil,They are available  and affordable,True,Price / cannot afford; Availability / seasonal
+561202655,nakaseke,Cooking oil,We can afford  it,True,Price / cannot afford
+552806909,nakaseke,Cooking oil,Can't afford  to get it,True,Price / cannot afford
+557694859,nakaseke,Cooking oil,Sometimes  we don't find them at the shops,True,Distance / market access
+554408234,nakaseke,Cooking oil,Shop is veryfar,True,Distance / market access
+556042141,nakaseke,Cooking oil,Shops  are long distances,True,Distance / market access
+559614978,nakaseke,Cooking oil,The shop is near us and therefore  we find no problem,True,Distance / market access; No constraint
+581570782,nakaseke,Cooking oil,Sometimes  we have money but it's very far from our home,True,Price / cannot afford; Distance / market access
+553316435,nakaseke,Cooking oil,Some get expired  in the market,True,Distance / market access
+558375760,nakaseke,Cooking oil,Lack of enough  money,True,Price / cannot afford
+559615316,nakaseke,Cooking oil,No problem  we can afford  it,True,Price / cannot afford; No constraint
+560425493,nakaseke,Cooking oil,It's affordable  no problem,True,Price / cannot afford; No constraint
+561200542,nakaseke,Cooking oil,We are afford it,True,Price / cannot afford
+560425197,nakaseke,Cooking oil,Sometimes  we have the money  but we need a boda,True,Price / cannot afford
+556039009,nakaseke,Cooking oil,Sometimes  it's not there,True,Other
+553316712,nakaseke,Cooking oil,Too far going to buy them,True,Distance / market access
+551439101,nakaseke,Cooking oil,Lack of money  to buy them,True,Price / cannot afford
+558374654,nakaseke,Cooking oil,"Some get expired  ,and prices  keep  changing",True,Price / cannot afford
+581569323,nakaseke,Cooking oil,The trading centre far from where we live but we can afford,True,Price / cannot afford; Distance / market access
+581571879,nakaseke,Cooking oil,Am OK with  the prices,True,Price / cannot afford
+564861263,nakaseke,Cooking oil,Sometimes  we have money  but we need to move long distance,True,Price / cannot afford; Distance / market access
+559615143,nakaseke,Cooking oil,We can afford  it,True,Price / cannot afford
+564864365,nakaseke,Cooking oil,No problem  we can afford,True,Price / cannot afford; No constraint
+553315619,nakaseke,Cooking oil,Not having  enough money,True,Price / cannot afford
+615757479,mukono,Cooking oil,Have some near retail shops,True,Distance / market access
+557694292,nakaseke,Cooking oil,Sometimes  we don't  have money,True,Price / cannot afford
+582450581,nakaseke,Cooking oil,We can afford,True,Price / cannot afford
+551438934,nakaseke,Cooking oil,Costly,True,Price / cannot afford
+554402613,nakaseke,Cooking oil,Very affordable prices n a walkable  distance,True,Price / cannot afford; Distance / market access
+552806578,nakaseke,Cooking oil,Expensive  and long distance,True,Price / cannot afford; Distance / market access
+554997531,nakaseke,Cooking oil,Long distances  which need transport,True,Distance / market access
+581568916,nakaseke,Cooking oil,We are OK not complaining,True,Other
+582449149,nakaseke,Cooking oil,No problem,True,No constraint
+583384059,nakaseke,Cooking oil,We can afford  all of those,True,Price / cannot afford
+584465855,nakaseke,Cooking oil,Very affordable,True,Price / cannot afford
+585291611,nakaseke,Cooking oil,We can afford  but you find when its unavailable,True,Price / cannot afford; Availability / seasonal
+586823072,nakaseke,Cooking oil,We have ghee  we don't need to buy cooking oil all the time,True,Other
+586821078,nakaseke,Cooking oil,Unavailable most times because we are a large community  yet we have few shops,True,Distance / market access; Availability / seasonal
+586823179,nakaseke,Cooking oil,Sometimes  it's not there,True,Other
+592179319,nakaseke,Cooking oil,Sometimes it's not there,True,Other
+582448458,nakaseke,Cooking oil,Very affordable  and near to us,True,Price / cannot afford
+583383308,nakaseke,Cooking oil,The prices  are high,True,Price / cannot afford
+584460556,nakaseke,Cooking oil,Sometimes  we can't afford to buy them,True,Price / cannot afford
+551438775,nakaseke,Cooking oil,Distance,True,Distance / market access
+552805506,nakaseke,Cooking oil,Diseases,True,Pests & diseases
+582449815,nakaseke,Cooking oil,Sometimes they are un available,True,Availability / seasonal
+583383783,nakaseke,Cooking oil,Long distances,True,Distance / market access
+585919910,nakaseke,Cooking oil,Our shops have a tendency  of selling  us expired  and spoilt  items,True,Distance / market access; Quality / safety
+551439238,nakaseke,Cooking oil,Long distances,True,Distance / market access
+555070994,nakaseke,Cooking oil,Shops are scarce someone has to walk or use a bicycle  to the trading centre,True,Distance / market access; Availability / seasonal
+555112218,nakaseke,Cooking oil,Trading  centre where its supposed  to be bought  from its very far,True,Distance / market access
+584458624,nakaseke,Cooking oil,Sometimes  we don't find it there,True,Other
+585290890,nakaseke,Cooking oil,We can afford  it but it's not there,True,Price / cannot afford
+585309665,nakaseke,Cooking oil,It's sometimes unavailable,True,Availability / seasonal
+585924133,nakaseke,Cooking oil,Very affordable and available,True,Price / cannot afford; Availability / seasonal
+613836978,nakaseke,Cooking oil,Cost a high,True,Price / cannot afford
+616677841,mukono,Eggs,No money,True,Price / cannot afford; No constraint
+613810847,nakaseke,Eggs,Small sized eggs  from the shop,True,Distance / market access; Quality / safety
+554388188,nakaseke,Eggs,0,False,
+559615651,nakaseke,Eggs,Sometimes  they are expensive,True,Price / cannot afford
+589705256,nakaseke,Eggs,Scarce,True,Availability / seasonal
+618502771,mukono,Eggs,Neighbours,True,Other
+555219650,nakaseke,Eggs,Take long to eat the eggs,True,Availability / seasonal
+550739292,nakaseke,Eggs,No money,True,Price / cannot afford; No constraint
+550740686,nakaseke,Eggs,Diseases,True,Pests & diseases
+552803009,nakaseke,Eggs,Priceskeeps on changing,True,Price / cannot afford
+623704380,mukono,Eggs,Don't feed on it,True,Other
+588625655,nakaseke,Eggs,Some times the eggs on sale are small sized,True,Quality / safety
+550740078,nakaseke,Eggs,High prices,True,Price / cannot afford
+552802393,nakaseke,Eggs,Rotten eggs,True,Pests & diseases
+561201812,nakaseke,Eggs,Sometimes  they are scarce,True,Availability / seasonal
+557694859,nakaseke,Eggs,We ca afford  them,True,Price / cannot afford
+623178431,mukono,Eggs,Once in a while,True,Availability / seasonal
+560425197,nakaseke,Eggs,Sometimes  they  sell bad ones which have stayed  for so long,True,Other
+630120684,mukono,Eggs,From hens at home,True,Other
+582449149,nakaseke,Eggs,We have local chicken  that  give us eggs without  much effort s,True,Other
+583384059,nakaseke,Eggs,Since we do local  chicken we get to eggs  and even sell some of it,True,Other
+585291611,nakaseke,Eggs,We can get eggs  from our own poultry,True,Other
+588618114,nakaseke,Eggs,Scarcity and also we get small sized ones,True,Quality / safety; Availability / seasonal
+586823072,nakaseke,Eggs,We have poultry  so we can be able to get cassava  from there,True,Other
+586823179,nakaseke,Eggs,Small sized eggs are put on market,True,Distance / market access; Quality / safety
+588618032,nakaseke,Eggs,Small  sized eggs,True,Quality / safety
+593216705,nakaseke,Eggs,We eat from our chicken we have here at home,True,Other
+586822745,nakaseke,Eggs,No problem  because we get from our poultry farm,True,Distance / market access; No constraint
+588618956,nakaseke,Eggs,I get eggs  from my poultry,True,Other
+588619984,nakaseke,Eggs,We have some poultry at home so we get eggs from there,True,Other
+589548430,nakaseke,Eggs,I get from our own poultry,True,Other
+583383783,nakaseke,Eggs,Prices are not expensive,True,Price / cannot afford
+585919910,nakaseke,Eggs,We practice  poultry  so there for eggs are available,True,Availability / seasonal
+585937638,nakaseke,Eggs,We eat from our poultry farm,True,Distance / market access
+592179023,nakaseke,Eggs,They sell small sized eggs,True,Quality / safety
+584458624,nakaseke,Eggs,With our local type of chicken  the family  can eat eggs from there,True,Other
+585929887,nakaseke,Eggs,Sometimes they ate not available,True,Availability / seasonal
+616677841,mukono,Starchy fruits (matooke),No money,True,Price / cannot afford; No constraint
+592191523,nakaseke,Starchy fruits (matooke),Sun shine make crops not to  bear fruits,True,Weather / drought
+559615651,nakaseke,Starchy fruits (matooke),Pests if not sprayed,True,Pests & diseases
+613825443,nakaseke,Starchy fruits (matooke),Blight affects their pumpkin and then rotting of the fruits,True,Pests & diseases
+618055484,mukono,Starchy fruits (matooke),Fellow farmers,True,Distance / market access
+593198085,nakaseke,Starchy fruits (matooke),Powdery mildew on pumpkin leaves,True,Other
+582502398,nakaseke,Starchy fruits (matooke),Rotting when mature,True,Pests & diseases
+583505325,nakaseke,Starchy fruits (matooke),Rotting when reaching harvesting period while on farm,True,Pests & diseases; Distance / market access
+585193571,nakaseke,Starchy fruits (matooke),Blossom end root in pumpkin attack their yeids,True,Other
+550740686,nakaseke,Starchy fruits (matooke),Long distances,True,Distance / market access
+581666409,nakaseke,Starchy fruits (matooke),Weather conditions like too much sunshine which leads to crops not growing well,True,Weather / drought
+613827164,nakaseke,Starchy fruits (matooke),Blight affects their starchy fruits like pumpkins,True,Pests & diseases
+588625655,nakaseke,Starchy fruits (matooke),Rotting in pumpkins fruits is too much,True,Pests & diseases
+553314788,nakaseke,Starchy fruits (matooke),Distortion of the leaves,True,Other
+557713215,nakaseke,Starchy fruits (matooke),Do not give good yields when  not sprayed,True,Other
+589566299,nakaseke,Starchy fruits (matooke),Powerly mildew,True,Other
+561201812,nakaseke,Starchy fruits (matooke),Flowers  that bring out the fruits  fall off which hinders their growth,True,Other
+561202655,nakaseke,Starchy fruits (matooke),If not sprayed  we don't get anything,True,Other
+557694859,nakaseke,Starchy fruits (matooke),Lack of fertilisers  to apply  because  they are always attacked  by diseases,True,Pests & diseases
+613820537,nakaseke,Starchy fruits (matooke),Unfavorable weather that causes damage to the crops,True,Weather / drought
+559614978,nakaseke,Starchy fruits (matooke),Everything  here  if not sprayed  we can't eat anything,True,Other
+581570782,nakaseke,Starchy fruits (matooke),Our trees  are older,True,Other
+558375760,nakaseke,Starchy fruits (matooke),The  disease which makes the flower fruits  fall off,True,Pests & diseases
+559615316,nakaseke,Starchy fruits (matooke),Delaying  or not spraying we can't get fruits,True,Other
+560425197,nakaseke,Starchy fruits (matooke),Without spraying  we can't harvest  any thing,True,Other
+553316712,nakaseke,Starchy fruits (matooke),Lack  of fertilisers,True,Other
+560423470,nakaseke,Starchy fruits (matooke),When  we spray well we find no problem,True,No constraint
+581569323,nakaseke,Starchy fruits (matooke),We have a certain  type of disease which affects  the leaves and fruits,True,Pests & diseases
+564861263,nakaseke,Starchy fruits (matooke),Lackof market,True,Distance / market access
+559615143,nakaseke,Starchy fruits (matooke),We can't eat harvest anything,True,Other
+554997531,nakaseke,Starchy fruits (matooke),It's affected  by a certain  disease transmitted  by birds,True,Pests & diseases
+581568916,nakaseke,Starchy fruits (matooke),There is  certain   disease  which attacks  the leaves  and it hinders  the flowers from bringing  outthe fruits,True,Pests & diseases
+582449149,nakaseke,Starchy fruits (matooke),The only problem  we have is we have old trees but we are planning on doing re planting,True,Other
+584465855,nakaseke,Starchy fruits (matooke),Diseases,True,Pests & diseases
+586823179,nakaseke,Starchy fruits (matooke),Our land is not favourable  for pumpkins,True,Other
+582448458,nakaseke,Starchy fruits (matooke),The changes  in climate  has affected  us alot,True,Other
+551438775,nakaseke,Starchy fruits (matooke),Lack of fertilisers,True,Other
+552805506,nakaseke,Starchy fruits (matooke),Diseases,True,Pests & diseases
+585919910,nakaseke,Starchy fruits (matooke),They need  manure and fertilisers,True,Other
+616677841,mukono,Vegetables,Once in a while,True,Availability / seasonal
+592191523,nakaseke,Vegetables,Scarcity of  some vegetables,True,Availability / seasonal
+552803832,nakaseke,Vegetables,Diseases like bright infections,True,Pests & diseases
+613825443,nakaseke,Vegetables,Scarcity of some vegetables,True,Availability / seasonal
+588619360,nakaseke,Vegetables,Some times they sell rotten  tomatoes and onions,True,Pests & diseases
+588629366,nakaseke,Vegetables,Scarcity from  the road side market,True,Distance / market access; Availability / seasonal
+593198085,nakaseke,Vegetables,Scarcity of some vegetables like tomatoes and onions that leads to cooking with vegetables,True,Availability / seasonal
+585193571,nakaseke,Vegetables,Some tomato are by blossom end rot and blight,True,Pests & diseases
+550740686,nakaseke,Vegetables,"Pests, and lon distances  to the market",True,Pests & diseases; Distance / market access
+588625655,nakaseke,Vegetables,Scarcity of some vegetables,True,Availability / seasonal
+592192864,nakaseke,Vegetables,Some times scarcity of vegetables,True,Availability / seasonal
+589566299,nakaseke,Vegetables,Scarcity of  some vegetables and the distance to  reach the market,True,Distance / market access; Availability / seasonal
+552806909,nakaseke,Vegetables,Some get rotten  from their and unaffordable,True,Pests & diseases; Price / cannot afford
+557694859,nakaseke,Vegetables,Sometimes  they  are expensive,True,Price / cannot afford
+589566059,nakaseke,Vegetables,Scarcity of some vegetables and when available are expensive but in smaller quantities,True,Price / cannot afford; Quality / safety; Availability / seasonal
+556042141,nakaseke,Vegetables,Leaves  sometimes  become  yellowish,True,Other
+560423470,nakaseke,Vegetables,Pests and  diseases,True,Pests & diseases
+558374654,nakaseke,Vegetables,We don't  have them in our gardens  here because some of them grow in swampy areas,True,Other
+582450581,nakaseke,Vegetables,We get bad quality  because  our lady is not favourable  for vegs,True,Quality / safety
+593216040,nakaseke,Vegetables,Bad type of soil not good  for vegs,True,Other
+554997531,nakaseke,Vegetables,It's affected by a disease  and leaves look burnt,True,Pests & diseases
+582449149,nakaseke,Vegetables,We practice  it on a small scale,True,Quality / safety
+583384059,nakaseke,Vegetables,Our soil is not favourable  for vegs,True,Other
+584465855,nakaseke,Vegetables,We have afew because  our kind of land is not favourable  for vegetables,True,Other
+585291611,nakaseke,Vegetables,We get few from our gardens  because  out soils is favourable  for vegs,True,Other
+586823072,nakaseke,Vegetables,Caterpillars  eat especially cabbage leaves,True,Other
+586823179,nakaseke,Vegetables,They are at times rotten  because  they are not stored  well,True,Pests & diseases
+588618032,nakaseke,Vegetables,High prices,True,Price / cannot afford
+586822745,nakaseke,Vegetables,Small  types of caterpillars attack  especially  the leaves,True,Quality / safety
+588619984,nakaseke,Vegetables,We get very poor quality on our farm especially when we don't spray or put fertilisers and also our land is not favourable,True,Distance / market access; Quality / safety
+551438775,nakaseke,Vegetables,Expensive,True,Price / cannot afford
+582449815,nakaseke,Vegetables,We have poor quality  the reason is our soil is favourable  for vegs,True,Quality / safety
+555070994,nakaseke,Vegetables,Sometimes  they are scarce because  they are taken to Kampala,True,Availability / seasonal
+585929887,nakaseke,Vegetables,"Poor quality, our type of soil is not favourable  for their growth",True,Quality / safety
+616677841,mukono,Cereals,Eat the small quantities got from own farm,True,Distance / market access; Quality / safety
+592191523,nakaseke,Cereals,Fall army worm affects their maize hence low yeids,True,Pests & diseases
+613831899,nakaseke,Cereals,Fallarmyworm and frass on maize leaves,True,Pests & diseases
+554396495,nakaseke,Cereals,Fall army worm  is a problem,True,Pests & diseases
+561250862,nakaseke,Cereals,It affected by the fall army worm,True,Pests & diseases
+613810847,nakaseke,Cereals,Fallarmyworm in maize,True,Pests & diseases
+559615651,nakaseke,Cereals,They are expensive,True,Price / cannot afford
+613825443,nakaseke,Cereals,Fallarmyworm affects their maize,True,Pests & diseases
+618055484,mukono,Cereals,Fellow farmers,True,Distance / market access
+551439754,nakaseke,Cereals,Most,True,Other
+588782700,nakaseke,Cereals,They sale of a poor quality,True,Quality / safety
+555219512,nakaseke,Cereals,Rotting  of the maize while still in the plantations,True,Pests & diseases
+592192218,nakaseke,Cereals,Poor weather conditions like too sun shine,True,Weather / drought
+556031317,nakaseke,Cereals,Fall army worm affects their maize and zibugo in beans,True,Pests & diseases
+586026956,nakaseke,Cereals,Fall army worm affects their maize,True,Pests & diseases
+582502735,nakaseke,Cereals,Fall army worm affects their maize,True,Pests & diseases
+559666954,nakaseke,Cereals,Fall army worm affects  maize,True,Pests & diseases
+584452976,nakaseke,Cereals,Fall army worm affects their maize hence low yeids,True,Pests & diseases
+581666974,nakaseke,Cereals,They are affected by fall army worm ðŸª±,True,Pests & diseases
+553313598,nakaseke,Cereals,Prices are too low when it comes to selling,True,Price / cannot afford
+583502844,nakaseke,Cereals,Fall army worm affects their maize,True,Pests & diseases
+588619360,nakaseke,Cereals,Distortion of the leaves and fall army worm in maize,True,Pests & diseases
+613814407,nakaseke,Cereals,Fall army worm affects their maize hence low productivity,True,Pests & diseases
+588629366,nakaseke,Cereals,"Stones  in the rice, fall army worm and distortion of maize leaves due to insects infection",True,Pests & diseases
+593198085,nakaseke,Cereals,Fall army worm in maize,True,Pests & diseases
+582502398,nakaseke,Cereals,Fall army worm affects their maize,True,Pests & diseases
+586028388,nakaseke,Cereals,Fall army worm affects their maize hence low yeids and too much sunshine,True,Pests & diseases; Weather / drought
+613819661,nakaseke,Cereals,Termite cut off maize plantations hence losses on farm,True,Distance / market access
+583505325,nakaseke,Cereals,Fall army worm affects maize and therefore needs to be sprayed in order to benefit,True,Pests & diseases
+561257600,nakaseke,Cereals,Are affected with fallarmyworm,True,Pests & diseases
+585193571,nakaseke,Cereals,Fall army worm affects their maize garden,True,Pests & diseases
+552803009,nakaseke,Cereals,Pests and disease like fall army worms,True,Pests & diseases
+585208171,nakaseke,Cereals,Fall army worm affects their maize hence low yeids,True,Pests & diseases
+613829595,nakaseke,Cereals,Fall army worm affects their maize and weather conditions are unfavorable like too much sunshine hence low productivity,True,Pests & diseases; Weather / drought
+559666632,nakaseke,Cereals,They are affected  by afall army worm,True,Pests & diseases
+584454693,nakaseke,Cereals,Fall army affects their maize,True,Pests & diseases
+613827164,nakaseke,Cereals,Fall army affects their maize plantations and also some drought affects crops too,True,Pests & diseases; Weather / drought
+588625655,nakaseke,Cereals,"Stone in the rice, fall army worm and distortion in leaves of the maize plantations",True,Pests & diseases
+553314788,nakaseke,Cereals,Fall army worm disease,True,Pests & diseases
+557713215,nakaseke,Cereals,You get high yeids when sprayed,True,Other
+592192864,nakaseke,Cereals,Fallarmyworm  in  maize plantations,True,Pests & diseases
+586804272,nakaseke,Cereals,Fall army worm affects their maize and birds too,True,Pests & diseases
+589566299,nakaseke,Cereals,Fall army worm affects their maize hence little yeids,True,Pests & diseases
+581667076,nakaseke,Cereals,Fall  army affects maize,True,Pests & diseases
+552806909,nakaseke,Cereals,Poor quality,True,Quality / safety
+589566059,nakaseke,Cereals,Fall army worm and distortion of leaves,True,Pests & diseases
+613820537,nakaseke,Cereals,Fall army worm affects their maize and leave liner on maize leave,True,Pests & diseases
+551439101,nakaseke,Cereals,Lack of money  and distance,True,Price / cannot afford; Distance / market access
+558375246,nakaseke,Cereals,Some  get expired  in the shops since few people  can buy them,True,Distance / market access
+582450581,nakaseke,Cereals,Expensive,True,Price / cannot afford
+551438934,nakaseke,Cereals,Distances,True,Distance / market access
+583384059,nakaseke,Cereals,Sometimes they are unavailable,True,Availability / seasonal
+586823072,nakaseke,Cereals,Expensive,True,Price / cannot afford
+588618032,nakaseke,Cereals,Stones in them,True,Other
+613184756,nakaseke,Cereals,Poor quality,True,Quality / safety
+582448458,nakaseke,Cereals,No problems,True,No constraint
+586822745,nakaseke,Cereals,Very far from us and getting transport,True,Distance / market access
+551439238,nakaseke,Cereals,High prices,True,Price / cannot afford
+584458624,nakaseke,Cereals,Expensive,True,Price / cannot afford
+585290674,nakaseke,Cereals,Expensive,True,Price / cannot afford
+585290890,nakaseke,Cereals,It's a long distance,True,Distance / market access
+585929887,nakaseke,Cereals,Sometimes  especially rice isn't there,True,Other

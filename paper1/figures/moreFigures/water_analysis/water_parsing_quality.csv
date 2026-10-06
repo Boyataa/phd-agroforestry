@@ -1,0 +1,3 @@
+district,distance answered,distance parsed,"distance unparseable (incl. 'soccer pitches', minutes)",distance > 3500 m,time answered,time parsed,time > 30 min (this parse),time > 30 min (module D parse)
+Mukono,291,290,1,0,294,292,15,15
+Nakaseke,295,265,30,0,298,283,28,33

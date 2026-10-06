@@ -1,0 +1,2 @@
+# house_valuation (superseded)
+Source: `House.ipynb` cell 8. This uncleaned version (all 600 rows, raw values including 15 UGX rent and 30M UGX/month rent, year built 2,000,000) is superseded by `../house_valuation_clean/`, as the brief requires. No figures are written here. All five old figures (`build_cost_boxplot`, `rent_boxplot`, `build_to_rent_ratio_boxplot`, `build_vs_rent_scatter`, `house_age_boxplot`) have cleaned equivalents in `house_valuation_clean`.

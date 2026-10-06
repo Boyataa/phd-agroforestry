@@ -1,0 +1,13 @@
+district,land use,n answered,% of answering HH with >0 acres,median acres among users,q25,q75,"Mann-Whitney p (users, districts)"
+Mukono,Robusta coffee,295,100.0,1.0,0.5,1.5,0.0
+Mukono,Other crops,290,57.2,1.0,0.5,1.5,0.0
+Mukono,Livestock grazing,292,6.2,0.25,0.25,0.5,0.819
+Mukono,Tree plantations,291,2.1,0.75,0.5,1.0,0.481
+Mukono,Rented out,291,1.4,0.5,0.5,0.5,0.002
+Mukono,Other activities,27,22.2,0.375,0.25,0.875,0.012
+Nakaseke,Robusta coffee,298,100.0,1.0,0.9,2.0,0.0
+Nakaseke,Other crops,244,95.5,0.9,0.3,1.0,0.0
+Nakaseke,Livestock grazing,246,43.5,0.6,0.1,1.0,0.819
+Nakaseke,Tree plantations,242,37.6,0.9,0.3,1.0,0.481
+Nakaseke,Rented out,178,12.4,1.5,1.0,2.0,0.002
+Nakaseke,Other activities,98,8.2,0.1,0.1,0.2,0.012

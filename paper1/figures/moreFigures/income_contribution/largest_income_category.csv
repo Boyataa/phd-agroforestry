@@ -1,0 +1,27 @@
+basis,group,n,largest_category,pct_households
+Cash only,Mukono,297,Coffee,72.72727272727273
+Cash only,Mukono,297,Other crop sales,7.07070707070707
+Cash only,Mukono,297,"Other cash (livestock, non-farm, transfers)",20.2020202020202
+Cash only,Nakaseke,300,Coffee,89.66666666666666
+Cash only,Nakaseke,300,Other crop sales,3.6666666666666665
+Cash only,Nakaseke,300,"Other cash (livestock, non-farm, transfers)",6.666666666666667
+Cash only,Both,597,Coffee,81.23953098827471
+Cash only,Both,597,Other crop sales,5.360134003350084
+Cash only,Both,597,"Other cash (livestock, non-farm, transfers)",13.400335008375208
+Cash only,chi-square district p,597,,5.295683901464571e-07
+Incl. in-kind,Mukono,297,Coffee,24.915824915824917
+Incl. in-kind,Mukono,297,Other crop sales,4.377104377104377
+Incl. in-kind,Mukono,297,"Other cash (livestock, non-farm, transfers)",13.804713804713806
+Incl. in-kind,Mukono,297,Home-grown food (in-kind),56.9023569023569
+Incl. in-kind,Mukono,297,Tree products used at home (in-kind),0.0
+Incl. in-kind,Nakaseke,300,Coffee,38.0
+Incl. in-kind,Nakaseke,300,Other crop sales,0.33333333333333337
+Incl. in-kind,Nakaseke,300,"Other cash (livestock, non-farm, transfers)",2.0
+Incl. in-kind,Nakaseke,300,Home-grown food (in-kind),59.0
+Incl. in-kind,Nakaseke,300,Tree products used at home (in-kind),0.6666666666666667
+Incl. in-kind,Both,597,Coffee,31.490787269681743
+Incl. in-kind,Both,597,Other crop sales,2.3450586264656614
+Incl. in-kind,Both,597,"Other cash (livestock, non-farm, transfers)",7.872696817420436
+Incl. in-kind,Both,597,Home-grown food (in-kind),57.95644891122278
+Incl. in-kind,Both,597,Tree products used at home (in-kind),0.33500837520938026
+Incl. in-kind,chi-square district p,597,,1.5022199289968585e-09

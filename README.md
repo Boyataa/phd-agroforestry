@@ -12,7 +12,7 @@ Working repository for all data, analysis scripts, results and models. Private: 
 | `scripts/benchmark/` | Benchmark rebuild v0.02 (participants, workbook inputs, LibreOffice test copy) |
 | `scripts/income/` | Income incl. home-grown food, living income gap, net income |
 | `scripts/obj1/` | Objective 1 analysis modules A–D and plotting style |
-| `paper1/` | Paper 1 figures, tables and `Obj1_tables_v1.md` |
+| `paper1/` | Paper 1 figures, tables and `Obj1_tables_v1.md`; `paper1/figures/moreFigures/` = your earlier Objective 1 analyses re-run on the cleaned data (see its README) |
 | `models/` | SHAMBA set-up script and notes (SHAMBA code itself is downloaded, not stored) |
 | `docs/` | Project brief, roadmap, decisions logs, cleaning/benchmark/gap/net-income/analysis logs, methods summary |
 

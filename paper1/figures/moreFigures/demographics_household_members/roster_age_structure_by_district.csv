@@ -1,0 +1,13 @@
+district,age_group,non_resident,resident,status_missing,total,pct_of_district_members
+Mukono,0-5,0,0,0,0,0.0
+Mukono,6-15,0,0,0,0,0.0
+Mukono,16-25,46,127,0,173,18.9
+Mukono,26-40,184,153,1,338,36.9
+Mukono,41-60,63,174,1,238,26.0
+Mukono,61+,1,167,0,168,18.3
+Nakaseke,0-5,0,24,2,26,2.8
+Nakaseke,6-15,1,219,9,229,25.1
+Nakaseke,16-25,20,157,3,180,19.7
+Nakaseke,26-40,16,209,16,241,26.4
+Nakaseke,41-60,2,148,0,150,16.4
+Nakaseke,61+,1,82,4,87,9.5

@@ -1,0 +1,7 @@
+row,Planted only (n),Both planted and remnant (n),Naturally growing / remnant only (n),Planted only (%),Both planted and remnant (%),Naturally growing / remnant only (%),n valid,chi-square p
+Mukono,7,259,29,2.4,87.8,9.8,295,districts p < 0.001
+Nakaseke,26,193,80,8.7,64.5,26.8,299,
+LI <25%,17,263,31,5.5,84.6,10.0,311,LI groups p < 0.001
+LI 25-50%,9,135,49,4.7,69.9,25.4,193,
+LI 50-100%,6,32,20,10.3,55.2,34.5,58,
+LI >=100%,1,22,9,3.1,68.8,28.1,32,

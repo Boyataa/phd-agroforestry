@@ -1,0 +1,16 @@
+group,category,n,pct_households_gt0,n_with_value,median_among_reporters_UGX,mean_all_households_UGX
+Mukono,Coffee sales (Q162a),297,100.0,297,1200000.0,2837787.9
+Mukono,Tree products harvested (Q168-170),297,43.4,108,290000.0,140178.5
+Mukono,Other crop sales (Q162e),297,50.5,150,500000.0,759123.8
+Mukono,"Other cash (Q162 b,c,d,f,g,h)",297,65.0,193,1000000.0,1585252.5
+Mukono,Home-grown food (in-kind),297,99.3,295,2631259.0,2714295.9
+Nakaseke,Coffee sales (Q162a),300,99.7,299,1000000.0,2950638.0
+Nakaseke,Tree products harvested (Q168-170),300,57.7,112,500000.0,335981.7
+Nakaseke,Other crop sales (Q162e),300,53.0,159,250000.0,248604.7
+Nakaseke,"Other cash (Q162 b,c,d,f,g,h)",300,61.0,183,340000.0,391746.4
+Nakaseke,Home-grown food (in-kind),300,99.3,298,1953595.0,1935247.6
+Both,Coffee sales (Q162a),597,99.8,596,1100000.0,2894496.5
+Both,Tree products harvested (Q168-170),597,50.6,220,370000.0,238572.0
+Both,Other crop sales (Q162e),597,51.8,309,300000.0,502581.6
+Both,"Other cash (Q162 b,c,d,f,g,h)",597,63.0,376,500000.0,985500.7
+Both,Home-grown food (in-kind),597,99.3,593,2043992.7,2322814.3

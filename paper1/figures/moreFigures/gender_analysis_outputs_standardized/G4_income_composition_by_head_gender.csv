@@ -1,0 +1,29 @@
+district,head,n,source,mean_UGX,share_%
+mukono,Male,134,Coffee,4508381,42.4
+mukono,Male,134,Other crops,1113437,10.5
+mukono,Male,134,Livestock,324004,3.0
+mukono,Male,134,Non-farm work & business,1386791,13.1
+mukono,Male,134,Remittances & other,431146,4.1
+mukono,Male,134,Home-grown food (in-kind),2839803,26.7
+mukono,Male,134,Tree products used at home,20485,0.2
+mukono,Female,162,Coffee,1466667,25.7
+mukono,Female,162,Other crops,469198,8.2
+mukono,Female,162,Livestock,148025,2.6
+mukono,Female,162,Non-farm work & business,443086,7.8
+mukono,Female,162,Remittances & other,534321,9.4
+mukono,Female,162,Home-grown food (in-kind),2627236,46.0
+mukono,Female,162,Tree products used at home,25432,0.4
+nakaseke,Male,148,Coffee,2657997,49.7
+nakaseke,Male,148,Other crops,262652,4.9
+nakaseke,Male,148,Livestock,107761,2.0
+nakaseke,Male,148,Non-farm work & business,249375,4.7
+nakaseke,Male,148,Remittances & other,83554,1.6
+nakaseke,Male,148,Home-grown food (in-kind),1914877,35.8
+nakaseke,Male,148,Tree products used at home,76622,1.4
+nakaseke,Female,152,Coffee,3235578,55.6
+nakaseke,Female,152,Other crops,234927,4.0
+nakaseke,Female,152,Livestock,126767,2.2
+nakaseke,Female,152,Non-farm work & business,154765,2.7
+nakaseke,Female,152,Remittances & other,62559,1.1
+nakaseke,Female,152,Home-grown food (in-kind),1955082,33.6
+nakaseke,Female,152,Tree products used at home,45891,0.8

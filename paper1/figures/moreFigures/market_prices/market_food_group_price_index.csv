@@ -1,0 +1,13 @@
+food_group,Mukono - Kasawo (rural),Mukono - Nakifuma (urban),Nakaseke - Kasangombe (rural),Nakaseke - Kiwoko (urban),Mukono - Kasawo (rural) items,Mukono - Nakifuma (urban) items,Nakaseke - Kasangombe (rural) items,Nakaseke - Kiwoko (urban) items
+Cereals,97.0,96.0,108.0,110.0,4,4,4,4
+Prepared cereals,93.0,100.0,100.0,100.0,4,4,4,3
+Roots & tubers,90.0,90.0,100.0,133.0,4,4,3,3
+Starchy fruits & fruit,94.0,111.0,70.0,139.0,6,7,5,6
+Legumes,100.0,100.0,101.0,97.0,4,5,4,5
+Leafy vegetables,100.0,110.0,100.0,135.0,4,4,1,4
+Other vegetables,100.0,97.0,103.0,160.0,3,2,2,3
+Meat,103.0,97.0,105.0,100.0,2,3,2,3
+Fish,,100.0,,100.0,0,1,0,1
+Dairy,79.0,105.0,88.0,82.0,2,2,2,2
+Eggs,105.0,95.0,105.0,100.0,1,1,1,1
+"Oils, fats & drinks",87.0,97.0,93.0,107.0,4,3,3,4

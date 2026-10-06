@@ -1,0 +1,3 @@
+district,n,median,q25,q75,mean,n_above_cap_6,median_children,median_adults,pct_hh_with_member_61plus,mann_whitney_p
+Mukono,297,2.0,1.0,4.0,2.94,30,3.0,2.0,47.5,0.0
+Nakaseke,300,1.5,1.0,2.75,1.81,0,3.0,2.0,23.0,0.0

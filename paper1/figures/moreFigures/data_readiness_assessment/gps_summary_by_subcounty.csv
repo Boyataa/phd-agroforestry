@@ -1,0 +1,6 @@
+district,sub_county,n_points,lat_centroid,lon_centroid,lat_min,lat_max,lon_min,lon_max,median_accuracy_m,n_accuracy_over_50m
+Mukono,Kimenyedde,147,0.543,32.814,0.492,0.608,32.738,32.888,4.9,0
+Mukono,Nabaale,149,0.552,32.8,0.489,0.605,32.71,32.883,4.95,3
+Nakaseke,Kasangombe,145,0.746,32.447,0.705,0.79,32.411,32.493,4.84,1
+Nakaseke,Kikamulo,153,0.829,32.384,0.727,0.894,32.342,32.473,4.85,0
+Nakaseke,Not recorded,1,0.748,32.431,0.748,0.748,32.431,32.431,4.983,0

@@ -1,0 +1,13 @@
+variable,district,head,n,median,mean,q25,q75,pct_zero,MW_p_median_over_20_imputations
+Cash income (all sources),mukono,Male,134,3335000,7763757,1800000,7875000,0.0,0.0
+Cash income (all sources),mukono,Female,162,1950000,3061296,900000,3680000,0.0,0.0
+Cash income (all sources),nakaseke,Male,148,1329000,3361338,797500,4050000,0.0,0.5538
+Cash income (all sources),nakaseke,Female,152,1586560,3814597,840500,4350000,0.0,0.5538
+Coffee sales (cash),mukono,Male,134,1455000,4508381,700000,3475000,0.0,0.0028
+Coffee sales (cash),mukono,Female,162,1000000,1466667,567500,1950000,0.0,0.0028
+Coffee sales (cash),nakaseke,Male,148,800000,2657997,500000,3054450,0.0,0.1117
+Coffee sales (cash),nakaseke,Female,152,1100000,3235578,551950,3455000,0.7,0.1117
+Cash + home-grown food + tree products used at home,mukono,Male,134,6822445,10624046,4501934,11336797,0.0,0.0
+Cash + home-grown food + tree products used at home,mukono,Female,162,4718709,5713964,3079559,7111006,0.0,0.0
+Cash + home-grown food + tree products used at home,nakaseke,Male,148,3637462,5352837,2602189,6410410,0.0,0.2861
+Cash + home-grown food + tree products used at home,nakaseke,Female,152,4050138,5815570,2834000,6304448,0.0,0.2861

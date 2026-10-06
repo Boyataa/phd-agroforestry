@@ -1,0 +1,7 @@
+row,"Has planted trees, none removed (n)","Has planted trees, removed some (n)","Remnant trees only, removed some (n)","Remnant trees only, none removed (n)","Has planted trees, none removed (%)","Has planted trees, removed some (%)","Remnant trees only, removed some (%)","Remnant trees only, none removed (%)",n valid,% removed trees,chi-square p (removed)
+Mukono,94,172,15,15,31.8,58.1,5.1,5.1,296,63.2,districts p < 0.001
+Nakaseke,131,86,17,64,44.0,28.9,5.7,21.5,298,34.6,
+LI <25%,140,139,8,24,45.0,44.7,2.6,7.7,311,47.3,LI groups p = 0.439
+LI 25-50%,55,88,15,35,28.5,45.6,7.8,18.1,193,53.4,
+LI 50-100%,20,18,7,13,34.5,31.0,12.1,22.4,58,43.1,
+LI >=100%,10,13,2,7,31.2,40.6,6.2,21.9,32,46.9,

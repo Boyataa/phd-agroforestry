@@ -1,0 +1,31 @@
+variable,survey column,answered Mukono,distinct Mukono,answered Nakaseke,distinct Nakaseke
+dwelling type,Select_the_type_of_dwelling,295,3,300,2
+rooms,Total_number_of_rooms,296,10,298,9
+bedrooms,Number_of_Bedrooms,291,9,295,7
+kitchens,Number_of_kitchens,292,3,299,4
+floor area (recorded),Total_Surface_area_Square_Feet,292,61,299,69
+"floor area m2 (recorded, converted)",floor_area_m2,290,59,298,68
+floor area m2 (modelled),floor_area_m2_model,291,59,293,40
+walls,House_Walls,295,20,300,15
+roof (unusable: form re-used wall codes),House_!Roof,295,4,299,6
+floor,House_Floor,295,11,300,21
+toilet inside/outside,Is_the_toilet_in_or_outside_the_house,295,1,299,2
+toilet type,Select_which_type_of_toile,292,4,298,3
+kitchen inside,Is_your_kitchen_inside_the,296,3,300,3
+drinking water source,Sources_of_Drinking_water,296,5,299,5
+non-drinking water source,Sources_of_Non_Drinking_Water,296,5,300,5
+water piped inside,Is_the_water_piped_inside_,296,2,299,2
+distance to water,DIstance_to_source_of_water,291,66,295,64
+time to water,Time_to_source_of_Water,294,71,298,102
+water cost per day,water_costs_per_day,295,27,284,20
+water cost components,What_does_the_cost_consist,220,6,295,10
+cooking energy source,energy_source,296,3,290,4
+energy cost,energy_source_cost,295,11,267,22
+grid electricity,Do_you_have_access_to_electricity,296,2,290,2
+other electricity sources,Do_you_use_other_sources_of_electricity,268,8,285,11
+electricity purposes,What_purposes_is_electricity,211,26,161,30
+grid bill (free text),SECTION_A/_32_If_you_have_elec_ch_do_you_pay_for_it,58,15,69,30
+build cost,"If_you_are_the_owner_of_the_house,_(and_they_don_t_know_rent_costs),_how_much_would_it_cost_to_build_this_house",190,59,265,45
+rent of similar house / month,"If_you_are_the_owner_of_the_house,_what_do_you_think_would_it_cost_to_rent_a_house_that_is_similar_to_this_one_in_this_village_Per_Month",294,27,266,34
+year built,When_was_the_house_built,296,42,297,45
+enumerator: housing meets standard (not comparable across districts),Investigator_s_opinion_Does_h,295,2,300,2

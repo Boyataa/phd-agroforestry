@@ -1,0 +1,13 @@
+district,n,category,mean_UGX,median_UGX,pct_of_benchmark_ref,pct_of_mean_gross
+Mukono,297,"Tree products harvested, Q168-170 (excl. coffee)",140178.5,0.0,0.7,1.8
+Mukono,297,Coffee sales (Q162a),2837787.9,1200000.0,14.1,35.8
+Mukono,297,Coffee + tree products,2977966.3,,14.8,37.6
+Mukono,297,All other income incl. home-grown food,5058672.2,3849434.4,25.1,63.9
+Mukono,297,Total cash income,5182164.2,2400000.0,25.7,65.4
+Mukono,297,Total incl. in-kind,7919574.6,5535254.8,39.3,100.0
+Nakaseke,300,"Tree products harvested, Q168-170 (excl. coffee)",335981.7,0.0,1.7,6.0
+Nakaseke,300,Coffee sales (Q162a),2950638.0,1000000.0,14.9,52.8
+Nakaseke,300,Coffee + tree products,3286619.7,,16.6,58.8
+Nakaseke,300,All other income incl. home-grown food,2575598.7,2353595.0,13.0,46.1
+Nakaseke,300,Total cash income,3590989.1,1449600.0,18.2,64.3
+Nakaseke,300,Total incl. in-kind,5587288.4,3901610.2,28.2,100.0

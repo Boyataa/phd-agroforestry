@@ -1,0 +1,25 @@
+district,food_group,n_price_observations,n_items,n_markets
+Mukono,Cereals,40,4,2
+Mukono,Dairy,15,2,2
+Mukono,Eggs,10,1,2
+Mukono,Fish,5,2,1
+Mukono,Leafy vegetables,25,4,2
+Mukono,Legumes,33,5,2
+Mukono,Meat,20,3,2
+Mukono,"Oils, fats & drinks",38,4,2
+Mukono,Other vegetables,16,3,2
+Mukono,Prepared cereals,31,4,2
+Mukono,Roots & tubers,26,4,2
+Mukono,Starchy fruits & fruit,35,7,2
+Nakaseke,Cereals,39,4,2
+Nakaseke,Dairy,17,2,2
+Nakaseke,Eggs,9,1,2
+Nakaseke,Fish,5,1,2
+Nakaseke,Leafy vegetables,16,4,2
+Nakaseke,Legumes,30,5,2
+Nakaseke,Meat,21,3,2
+Nakaseke,"Oils, fats & drinks",31,4,2
+Nakaseke,Other vegetables,18,3,2
+Nakaseke,Prepared cereals,33,4,2
+Nakaseke,Roots & tubers,25,4,2
+Nakaseke,Starchy fruits & fruit,39,6,2

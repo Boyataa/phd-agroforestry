@@ -1,0 +1,16 @@
+group,category,n,mean_UGX,median_UGX,share_of_mean_cash_%,share_of_mean_gross_%
+Mukono,Coffee,297,2837787.9,1200000.0,54.8,35.8
+Mukono,Other crop sales,297,759123.8,30000.0,14.6,9.6
+Mukono,"Other cash (livestock, non-farm, transfers)",297,1585252.5,489000.0,30.6,20.0
+Mukono,Home-grown food (in-kind),297,2714295.9,2564259.3,,34.3
+Mukono,Tree products used at home (in-kind),297,23114.5,0.0,,0.3
+Nakaseke,Coffee,300,2950638.0,1000000.0,82.2,52.8
+Nakaseke,Other crop sales,300,248604.7,50000.0,6.9,4.4
+Nakaseke,"Other cash (livestock, non-farm, transfers)",300,391746.4,150000.0,10.9,7.0
+Nakaseke,Home-grown food (in-kind),300,1935247.6,1953595.0,,34.6
+Nakaseke,Tree products used at home (in-kind),300,61051.7,0.0,,1.1
+Both,Coffee,597,2894496.5,1100000.0,66.0,42.9
+Both,Other crop sales,597,502581.6,50000.0,11.5,7.4
+Both,"Other cash (livestock, non-farm, transfers)",597,985500.7,240000.0,22.5,14.6
+Both,Home-grown food (in-kind),597,2322814.3,2043992.7,,34.4
+Both,Tree products used at home (in-kind),597,42178.4,0.0,,0.6

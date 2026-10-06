@@ -1,0 +1,33 @@
+statistic,Mukono,Nakaseke,All,p (district)
+Households,297.0,300.0,597.0,
+"Benchmark, reference HH (UGX/yr)",20166768.677,19779321.7352,,
+"Benchmark, reference HH (UGX/month)",1680564.0564,1648276.8113,,
+"Benchmark, HH-size specific, median (UGX/yr)",21286812.8223,19022557.8707,19485024.6768,
+"Cash income, mean (UGX/yr)",5182164.2424,3590989.145,4382578.7663,
+"Cash income, median (UGX/yr)",2400000.0,1449600.0,2000000.0,0.0003
+"Home-grown food (in-kind), mean (UGX/yr)",2714295.867,1935247.6019,2322814.3267,
+"Home-grown food (in-kind), median (UGX/yr)",2564259.309,1953594.9893,2043992.7009,
+"Tree products used at home, mean (UGX/yr)",23114.4781,61051.6667,42178.392,
+"Tree products used at home, median (UGX/yr)",0.0,0.0,0.0,
+"Gross income incl. in-kind, mean (UGX/yr)",7919574.5875,5587288.4135,6747571.485,
+"Gross income incl. in-kind, median (UGX/yr)",5535254.7512,3901610.2311,4684671.1385,0.0
+"Production costs, mean (UGX/yr)",1523942.3584,2408792.5424,1968590.6921,
+"Production costs, median (UGX/yr)",855500.0,972400.0,920000.0,
+"Net income, mean (UGX/yr)",6395632.2292,3178495.8711,4778980.793,
+"Net income, median (UGX/yr)",4000802.8193,2574124.0536,3043457.028,0.0
+"Gross income, median (UGX/month)",461271.2293,325134.1859,390389.2615,
+"Net income, median (UGX/month)",333400.2349,214510.3378,253621.419,
+"Income as % of HH benchmark, median (gross)",26.5223,20.0553,23.6967,0.0
+"Income as % of HH benchmark, median (net)",17.5633,13.6488,15.7091,0.0
+% below reference benchmark (gross),92.5926,98.0,95.3099,0.0034
+% below reference benchmark (net),93.6027,99.3333,96.4824,
+% below HH benchmark (cash only),95.2862,96.0,95.6449,
+% below HH benchmark (gross),93.6027,95.6667,94.6399,0.3483
+% below HH benchmark (net),95.9596,98.6667,97.3199,0.0728
+"Gap to HH benchmark, median (gross, UGX/yr)",13740315.0073,13020145.5037,13116061.8052,
+"Gap to HH benchmark, median (net, UGX/yr)",14781098.2935,14679887.1236,14695803.4272,
+"Gap to HH benchmark, mean (gross, UGX/yr)",14247458.0141,13033002.1038,13637178.6622,
+"Gap to HH benchmark, mean (net, UGX/yr)",15771400.3725,15441794.6463,15605769.3543,
+"Gap to reference benchmark, median (gross, UGX/yr)",14631513.9258,15877711.5042,15392262.394,
+"Gap to reference benchmark, median (net, UGX/yr)",16165965.8578,17205197.6816,16909650.0664,
+"Gap to HH benchmark, median (gross, UGX/month)",1145026.2506,1085012.1253,1093005.1504,
