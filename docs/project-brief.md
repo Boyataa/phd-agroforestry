@@ -9,6 +9,7 @@ _Last updated: 2026-10-05 evening (paper draft v2; n = 600 tried and reverted to
 - Ezra works on his PC: keep files in the cloud container/Project; do not move anything to his machine. The Project accepts text files only.
 - Project storage FULL (2 MB cap): large CSV writes are refused. Project CSVs are the 597-household run and current; scripts regenerate everything.
 - Paper 1 draft v2 (shared doc): https://claude.ai/code/artifact/2ed7a2b1-ed93-454c-a6c0-b14aa94dc860 (alt https://claude.ai/artifact/6nVMRL3qCFFtg27uXgosXm; blank on Ezra's PC, opens on phone; Word export sent). Ezra's v1 = `Paper Draft.docx` (comments from supervisor Aske Skovmand Bosselmann).
+- **Working repository (from 2026-10-06): GitHub `Boyataa/phd-agroforestry` (private)** — raw + derived data, all scripts, logs, Paper 1 outputs, SHAMBA setup. Start each session by cloning it; `python run_all.py` rebuilds Paper 1 identically. Commit and push changes there; the Project keeps the brief and logs.
 - `paper1_figures.zip` (sent in chat): run_all.py rebuilds all Paper 1 figures/tables from Standardized_Data.csv + KoBo export; verified identical.
 
 ## Research
@@ -43,7 +44,7 @@ _Last updated: 2026-10-05 evening (paper draft v2; n = 600 tried and reverted to
 - Coffee yield median 180 / 58 kg FAQ/acre (2% reach 1,000 kg in each district); closing gap via coffee alone needs ~11–14× yield. Trees: + Mukono, − Nakaseke.
 
 ## Models
-- **SHAMBA v1.2** for Paper 3 (Docker on Mac; needs internet). DynACof not used.
+- **SHAMBA v1.2** for Paper 3: runs in the cloud workspace (`bash models/setup_shamba.sh` in the repo; Python 3.10.16). Climate/soil downloads are blocked there, so enter them in the input template. 2 of SHAMBA's 5 own tests fail on branch cirevo/initial-improvements — check vs main before use. DynACof not used.
 
 ## Next steps
 1. Ezra/Aske review draft v2 ([to confirm] points: USD rate, diet checks, Fairtrade benchmark citation, ethics numbers, FGD quotes, enumerator explanation, 297 vs 300 Mukono).
