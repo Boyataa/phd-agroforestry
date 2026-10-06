@@ -1,81 +1,81 @@
 ,,coef,se,p,fmi
-M1 gross,const,-0.8764,0.1232,0.0,0.0321
-M1 gross,Nakaseke (vs Mukono),-0.388,0.0504,0.0,0.0177
-M1 gross,log coffee area (acres),0.2102,0.0603,0.0005,0.0077
-M1 gross,log land owned (acres),0.1543,0.0575,0.0073,0.0071
-M1 gross,Household size,-0.0872,0.0109,0.0,0.0243
-M1 gross,Female household head,-0.0536,0.0463,0.2473,0.0144
-M1 gross,Respondent secondary education+,0.3062,0.0533,0.0,0.0184
-M1 gross,Respondent age (10 years),-0.0153,0.0155,0.3266,0.0306
-M1 gross,Number of cash income sources,0.0397,0.022,0.0708,0.0205
-M1 gross,Farmer group / project member,0.2124,0.0648,0.001,0.018
-M1 gross,Extension contact,-0.0976,0.0702,0.1642,0.0472
-M1 gross,Credit access,-0.1751,0.0685,0.0106,0.0287
-M2 + yield/price,const,-3.5381,0.5709,0.0,0.0211
-M2 + yield/price,Nakaseke (vs Mukono),-0.1542,0.0509,0.0025,0.0355
-M2 + yield/price,log coffee area (acres),0.3184,0.0635,0.0,0.0124
-M2 + yield/price,log land owned (acres),0.1907,0.0609,0.0017,0.0097
-M2 + yield/price,Household size,-0.0875,0.0097,0.0,0.027
-M2 + yield/price,Female household head,-0.1104,0.0391,0.0048,0.0213
-M2 + yield/price,Respondent secondary education+,0.1712,0.049,0.0005,0.0231
-M2 + yield/price,Respondent age (10 years),-0.0125,0.0135,0.3554,0.0259
-M2 + yield/price,Number of cash income sources,0.0795,0.0225,0.0004,0.0454
-M2 + yield/price,Farmer group / project member,-0.0149,0.0603,0.8049,0.0184
-M2 + yield/price,Extension contact,0.0185,0.0655,0.7772,0.0797
-M2 + yield/price,Credit access,-0.2138,0.0737,0.0037,0.0349
-M2 + yield/price,log coffee yield (kg FAQ/acre),0.3219,0.0243,0.0,0.0272
-M2 + yield/price,log Kiboko price (UGX/kg),0.1237,0.0594,0.0373,0.0181
-M3 + trees,const,-1.0542,0.1583,0.0,0.0174
-M3 + trees,Nakaseke (vs Mukono),0.2089,0.1975,0.2901,0.0196
-M3 + trees,log coffee area (acres),0.1569,0.0705,0.0261,0.0089
-M3 + trees,log land owned (acres),0.2764,0.0731,0.0002,0.0047
-M3 + trees,Household size,-0.0816,0.0114,0.0,0.0156
+M1 gross,const,-0.8764,0.1232,0.0,0.0323
+M1 gross,Nakaseke (vs Mukono),-0.3881,0.0504,0.0,0.0177
+M1 gross,log coffee area (acres),0.2101,0.0603,0.0005,0.0076
+M1 gross,log land owned (acres),0.1544,0.0575,0.0072,0.0071
+M1 gross,Household size,-0.0872,0.0109,0.0,0.0239
+M1 gross,Female household head,-0.0537,0.0463,0.2464,0.0137
+M1 gross,Respondent secondary education+,0.3062,0.0533,0.0,0.0186
+M1 gross,Respondent age (10 years),-0.0152,0.0155,0.3271,0.0306
+M1 gross,Number of cash income sources,0.0397,0.022,0.0711,0.02
+M1 gross,Farmer group / project member,0.2124,0.0648,0.001,0.0179
+M1 gross,Extension contact,-0.0975,0.0701,0.1646,0.0464
+M1 gross,Credit access,-0.1751,0.0685,0.0106,0.029
+M2 + yield/price,const,-3.5383,0.571,0.0,0.0211
+M2 + yield/price,Nakaseke (vs Mukono),-0.1542,0.0509,0.0025,0.036
+M2 + yield/price,log coffee area (acres),0.3184,0.0635,0.0,0.0125
+M2 + yield/price,log land owned (acres),0.1907,0.0609,0.0017,0.0099
+M2 + yield/price,Household size,-0.0875,0.0097,0.0,0.0265
+M2 + yield/price,Female household head,-0.1104,0.0391,0.0048,0.0211
+M2 + yield/price,Respondent secondary education+,0.1711,0.0489,0.0005,0.0229
+M2 + yield/price,Respondent age (10 years),-0.0125,0.0135,0.3561,0.0261
+M2 + yield/price,Number of cash income sources,0.0795,0.0226,0.0004,0.0482
+M2 + yield/price,Farmer group / project member,-0.0149,0.0603,0.8046,0.0186
+M2 + yield/price,Extension contact,0.0187,0.0654,0.775,0.0785
+M2 + yield/price,Credit access,-0.2138,0.0737,0.0037,0.0348
+M2 + yield/price,log coffee yield (kg FAQ/acre),0.3219,0.0243,0.0,0.0273
+M2 + yield/price,log Kiboko price (UGX/kg),0.1237,0.0594,0.0373,0.018
+M3 + trees,const,-1.0542,0.1583,0.0,0.0175
+M3 + trees,Nakaseke (vs Mukono),0.2089,0.1974,0.2898,0.0188
+M3 + trees,log coffee area (acres),0.1568,0.0705,0.0261,0.0088
+M3 + trees,log land owned (acres),0.2765,0.0731,0.0002,0.0044
+M3 + trees,Household size,-0.0816,0.0114,0.0,0.0152
 M3 + trees,Female household head,-0.1718,0.0464,0.0002,0.0172
-M3 + trees,Respondent secondary education+,0.1968,0.0561,0.0005,0.0189
-M3 + trees,Respondent age (10 years),-0.0056,0.0161,0.7274,0.0138
-M3 + trees,Number of cash income sources,0.1132,0.0271,0.0,0.0465
-M3 + trees,Farmer group / project member,0.0665,0.069,0.335,0.0154
-M3 + trees,Extension contact,-0.0676,0.0778,0.3844,0.0469
-M3 + trees,Credit access,-0.2351,0.0691,0.0007,0.0072
-M3 + trees,"Trees on farm (log, +1) x Mukono",-0.0047,0.0435,0.9134,0.0089
-M3 + trees,"Trees on farm (log, +1) x Nakaseke",-0.1762,0.062,0.0045,0.0193
-M4 net,const,-1.7289,0.1645,0.0,0.0459
-M4 net,Nakaseke (vs Mukono),-0.3696,0.068,0.0,0.0192
-M4 net,log coffee area (acres),-0.3066,0.0742,0.0,0.0141
-M4 net,log land owned (acres),0.333,0.0686,0.0,0.0135
-M4 net,Household size,-0.0254,0.0122,0.037,0.0437
-M4 net,Female household head,-0.1354,0.0609,0.0261,0.0244
-M4 net,Respondent secondary education+,0.2152,0.0701,0.0021,0.0237
-M4 net,Respondent age (10 years),-0.018,0.0208,0.3865,0.0347
-M4 net,Number of cash income sources,0.0722,0.0281,0.0103,0.0307
-M4 net,Farmer group / project member,0.2804,0.0846,0.0009,0.0217
-M4 net,Extension contact,-0.2014,0.0888,0.0234,0.0622
-M4 net,Credit access,-0.3515,0.0934,0.0002,0.0488
-M5 logit reach 50%,const,-1.3328,0.6487,0.0399,0.0278
-M5 logit reach 50%,Nakaseke (vs Mukono),-0.9572,0.3036,0.0016,0.0472
-M5 logit reach 50%,log coffee area (acres),0.4126,0.2789,0.1391,0.0252
-M5 logit reach 50%,log land owned (acres),0.7458,0.2972,0.0121,0.0306
-M5 logit reach 50%,Household size,-0.2729,0.0719,0.0001,0.0234
-M5 logit reach 50%,Female household head,-0.5234,0.273,0.0552,0.0215
-M5 logit reach 50%,Respondent secondary education+,1.3721,0.2856,0.0,0.0241
-M5 logit reach 50%,Respondent age (10 years),-0.0618,0.0846,0.4654,0.0254
-M5 logit reach 50%,Number of cash income sources,0.1983,0.1239,0.1095,0.0361
-M5 logit reach 50%,Farmer group / project member,0.6796,0.3225,0.0351,0.0426
-M5 logit reach 50%,Extension contact,-0.4067,0.4064,0.317,0.0635
-M5 logit reach 50%,Credit access,-1.0782,0.567,0.0575,0.1379
-M6 + enumerator FE,const,-1.0428,0.1122,0.0,0.043
-M6 + enumerator FE,log coffee area (acres),0.1806,0.0592,0.0023,0.0069
-M6 + enumerator FE,log land owned (acres),0.1927,0.058,0.0009,0.0067
-M6 + enumerator FE,Household size,-0.0919,0.0096,0.0,0.0281
-M6 + enumerator FE,Female household head,-0.0857,0.041,0.0367,0.0213
-M6 + enumerator FE,Respondent secondary education+,0.1086,0.0459,0.018,0.0339
-M6 + enumerator FE,Respondent age (10 years),-0.0141,0.0139,0.312,0.0388
-M6 + enumerator FE,Number of cash income sources,0.0771,0.0228,0.0007,0.0658
-M6 + enumerator FE,Farmer group / project member,0.061,0.0615,0.3214,0.0167
-M6 + enumerator FE,Extension contact,-0.0009,0.0603,0.9883,0.0677
-M6 + enumerator FE,Credit access,-0.0759,0.064,0.2355,0.0403
-M6 + enumerator FE,Enumerator: Kawalya_Dan,0.1906,0.074,0.01,0.0506
-M6 + enumerator FE,Enumerator: Najjuma_Olivia,-0.1994,0.0677,0.0032,0.0239
-M6 + enumerator FE,Enumerator: Namazzi_Patience,0.46,0.0876,0.0,0.0181
-M6 + enumerator FE,Enumerator: Namyenya_Lillian,-0.6879,0.0844,0.0,0.0247
-M6 + enumerator FE,Enumerator: Sserugo_William,0.0024,0.071,0.9727,0.037
+M3 + trees,Respondent secondary education+,0.1968,0.0561,0.0005,0.0187
+M3 + trees,Respondent age (10 years),-0.0056,0.0161,0.7287,0.0139
+M3 + trees,Number of cash income sources,0.1131,0.0271,0.0,0.045
+M3 + trees,Farmer group / project member,0.0665,0.069,0.3352,0.0155
+M3 + trees,Extension contact,-0.0674,0.0777,0.386,0.0457
+M3 + trees,Credit access,-0.2351,0.0691,0.0007,0.0071
+M3 + trees,"Trees on farm (log, +1) x Mukono",-0.0048,0.0435,0.913,0.0088
+M3 + trees,"Trees on farm (log, +1) x Nakaseke",-0.1762,0.062,0.0045,0.0188
+M4 net,const,-1.7289,0.1646,0.0,0.046
+M4 net,Nakaseke (vs Mukono),-0.3697,0.068,0.0,0.0191
+M4 net,log coffee area (acres),-0.3068,0.0741,0.0,0.0138
+M4 net,log land owned (acres),0.3332,0.0686,0.0,0.0135
+M4 net,Household size,-0.0254,0.0122,0.0371,0.043
+M4 net,Female household head,-0.1355,0.0608,0.0259,0.0235
+M4 net,Respondent secondary education+,0.2152,0.0701,0.0021,0.0239
+M4 net,Respondent age (10 years),-0.018,0.0208,0.3873,0.0346
+M4 net,Number of cash income sources,0.0721,0.0281,0.0104,0.0316
+M4 net,Farmer group / project member,0.2805,0.0846,0.0009,0.0215
+M4 net,Extension contact,-0.2013,0.0887,0.0234,0.0611
+M4 net,Credit access,-0.3515,0.0934,0.0002,0.049
+M5 logit reach 50%,const,-1.3344,0.649,0.0398,0.0289
+M5 logit reach 50%,Nakaseke (vs Mukono),-0.9571,0.3035,0.0016,0.0469
+M5 logit reach 50%,log coffee area (acres),0.4129,0.2789,0.1389,0.0253
+M5 logit reach 50%,log land owned (acres),0.7455,0.2973,0.0122,0.0308
+M5 logit reach 50%,Household size,-0.2729,0.0719,0.0001,0.023
+M5 logit reach 50%,Female household head,-0.5233,0.2731,0.0553,0.0216
+M5 logit reach 50%,Respondent secondary education+,1.3724,0.2856,0.0,0.0241
+M5 logit reach 50%,Respondent age (10 years),-0.0618,0.0846,0.4652,0.0253
+M5 logit reach 50%,Number of cash income sources,0.1993,0.124,0.1081,0.0379
+M5 logit reach 50%,Farmer group / project member,0.6793,0.3225,0.0352,0.043
+M5 logit reach 50%,Extension contact,-0.4069,0.4064,0.3168,0.0637
+M5 logit reach 50%,Credit access,-1.0786,0.5671,0.0575,0.1382
+M6 + enumerator FE,const,-1.043,0.1122,0.0,0.0432
+M6 + enumerator FE,log coffee area (acres),0.1804,0.0592,0.0023,0.0068
+M6 + enumerator FE,log land owned (acres),0.1928,0.058,0.0009,0.0067
+M6 + enumerator FE,Household size,-0.0919,0.0096,0.0,0.0276
+M6 + enumerator FE,Female household head,-0.0858,0.041,0.0365,0.0208
+M6 + enumerator FE,Respondent secondary education+,0.1086,0.0459,0.018,0.0338
+M6 + enumerator FE,Respondent age (10 years),-0.0141,0.0139,0.3126,0.0389
+M6 + enumerator FE,Number of cash income sources,0.0771,0.0228,0.0007,0.066
+M6 + enumerator FE,Farmer group / project member,0.0611,0.0615,0.3212,0.0167
+M6 + enumerator FE,Extension contact,-0.0007,0.0602,0.9906,0.0666
+M6 + enumerator FE,Credit access,-0.076,0.064,0.2352,0.0402
+M6 + enumerator FE,Enumerator: Kawalya_Dan,0.1905,0.074,0.0101,0.0519
+M6 + enumerator FE,Enumerator: Najjuma_Olivia,-0.1994,0.0677,0.0032,0.0241
+M6 + enumerator FE,Enumerator: Namazzi_Patience,0.4598,0.0876,0.0,0.0181
+M6 + enumerator FE,Enumerator: Namyenya_Lillian,-0.6881,0.0843,0.0,0.0238
+M6 + enumerator FE,Enumerator: Sserugo_William,0.0023,0.071,0.9742,0.0373
