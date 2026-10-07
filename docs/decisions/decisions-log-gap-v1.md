@@ -24,3 +24,10 @@ Result (net central): median 4.00M / 2.56M → 19.8% / 12.9% of benchmark (gross
 - Data-quality decisions (Ezra): enumerator Namyenya's tree counts (median 258) set to missing (likely coffee bushes), rest of her data kept; enumerator fixed effects as robustness only. Claude: yield > 5,000 kg FAQ/acre → missing; Kiboko price outside 1,000–20,000 → missing.
 - Key results: poorest group 66% of income from home-grown food; education, land, coffee area, group membership +; household size −; coffee alone would need ~11–14× today's yield to close the gap; enumerator effects large (R² 0.35 → 0.52) but main results hold.
 - Project storage nearly full (≈1.99 of 2 MB): household analysis CSV and PNG figures not stored; rebuild with the scripts (figures sent to Ezra in chat).
+
+## Paper 1 section 2.2 sampling rewritten (2026-10-07, in draft v2 doc)
+- Frame: coffee-growing HH, UBOS 2017 (Nakaseke 7,086 of 34,254; Mukono 9,322 of 87,269). Cochran (1977), z 1.96, p 0.5, E 0.05 → n0 384; with finite population correction Mukono 369, Nakaseke 365.
+- Proposal's Nakaseke 380 = 365 + 4% allowance (not applied to Mukono) → marked [to confirm] in the draft.
+- Ezra: shortfall from 749 planned to 600 was budget and time; 300 per district, ~150 per sub-county. Achieved margin of error ±5.6% Mukono, ±5.5% Nakaseke (95%, FPC); stated in text.
+- References added: Cochran 1977; UBOS 2017 (full reference still to add).
+- Numbers reproduced by `scripts/obj1/sample_size.py`; section text in `paper1/section-2.2-sampling.md`.
