@@ -27,7 +27,7 @@ Result (net central): median 4.00M / 2.56M → 19.8% / 12.9% of benchmark (gross
 
 ## Paper 1 section 2.2 sampling rewritten (2026-10-07, in draft v2 doc)
 - Frame: coffee-growing HH, UBOS 2017 (Nakaseke 7,086 of 34,254; Mukono 9,322 of 87,269). Cochran (1977), z 1.96, p 0.5, E 0.05 → n0 384; with finite population correction Mukono 369, Nakaseke 365.
-- Proposal's Nakaseke 380 = 365 + 4% allowance (not applied to Mukono) → marked [to confirm] in the draft.
+- Proposal's Nakaseke 380 = 365 + 4% allowance (not applied to Mukono). Ezra (2026-10-07): report 369 / 365 in the paper; 380 dropped. If the thesis is compared with the proposal, explain 380 in one line there.
 - Ezra: shortfall from 749 planned to 600 was budget and time; 300 per district, ~150 per sub-county. Achieved margin of error ±5.6% Mukono, ±5.5% Nakaseke (95%, FPC); stated in text.
 - References added: Cochran 1977; UBOS 2017 (full reference still to add).
 - Numbers reproduced by `scripts/obj1/sample_size.py`; section text in `paper1/section-2.2-sampling.md`.
