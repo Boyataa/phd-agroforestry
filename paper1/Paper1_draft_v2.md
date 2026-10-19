@@ -1,4 +1,4 @@
-<!-- Exported from the shared Paper 1 draft v2 doc (rev 44, 2026-10-07). The doc is the working copy; re-export after edits. -->
+<!-- Exported from the shared Paper 1 draft v2 doc (rev 46, 2026-10-19). The doc is the working copy; re-export after edits. -->
 
 # Paper 1 draft v2 – Living income gap, Robusta coffee, Uganda
 
@@ -13,6 +13,8 @@ Oct 5, 2026 · @Ezra
 Robusta coffee is Uganda's leading agricultural export, yet the households that grow it often cannot afford a decent standard of living. We estimate the living income gap of 597 coffee-farming households in Mukono and Nakaseke districts, central Uganda, and ask what it would take to close it. Living income benchmarks were built with the NFC\_LW tool from local market prices and survey data: UGX 20.2 million per year in Mukono and UGX 19.8 million in Nakaseke for a household of two adults and three children. Household income combined twelve-month cash income from eight sources (missing amounts imputed 20 times) with the value of home-grown food and tree products used at home.
 
 Median household income was UGX 5.5 million in Mukono and 3.8 million in Nakaseke, 27% and 19% of the benchmark; 93% and 98% of households fell below it. Cash income alone reached 12% and 7% of the benchmark, and income net of production costs 20% and 13%. Coffee provided 36% and 53% of income and home-grown food about 35%; for the poorest half of households, home-grown food was the largest single source. Income relative to the benchmark rose with education, farmer-group membership, coffee area and land, and fell with household size. Median coffee yields of 180 and 58 kg FAQ per acre would have to rise roughly 11–14 fold for coffee alone to close the gap. Closing it will therefore take a mix of higher coffee productivity, more land-efficient diversification, including the tree component of coffee agroforestry, and support for large households. Four focus group discussions point to credit, inputs and market access as the barriers farmers feel most.
+
+**\[to confirm: not supported by the FGD notes available (N1F only); revise when all groups are written up\]**
 
 **Keywords:** living income, Robusta coffee, coffee agroforestry, smallholder farmers, income diversification, Uganda
 
@@ -85,7 +87,11 @@ To identify correlates of being closer to a living income, we regressed the log 
 
 ### 2.6 Focus group discussions
 
-Four sex-disaggregated focus groups of about ten farmers each (40 participants) were held in Kireeta Parish, Kikamulo Sub-county (Nakaseke) and Bamusuuta A Parish, Nabaale Sub-county (Mukono), coded N1F, N2M, M1F and M2M. They explored what a decent standard of living means locally, expenditure priorities, income sources, access to gendered products, market risks and barriers to a living income.
+Four sex-disaggregated focus group discussions (FGDs) of ten participants each (40 in total) were held, two per district: in Kireeta Parish, Kikamulo Sub-county (Nakaseke) and in Bamusuuta A Parish, Nabaale Sub-county (Mukono). Groups are coded by district, number and sex (N1F, N2M, M1F, M2M). Each group mixed older and younger participants so that views across generations were heard: women aged 18–60 (N1F) and 15–56 (M1F), and men aged 17–30 (N2M) and 20–71 (M2M). In Kireeta, participants included women leaders and youth community leaders **\[to confirm: how participants were selected; N2M is described as including older men but its members were aged 17–30\]**.
+
+The FGDs were conducted under the APCCO project **\[spell out APCCO\]** and explored the reasons, preferences and barriers that shape how households obtain gendered products such as contraceptives, menstrual products, soap, clothing and cosmetics, which form part of the non-food, non-housing needs in the living income benchmark **\[to confirm: topics of the second activity\]**. The N1F discussion took place on 9 January 2026, after the household survey **\[add dates of N2M, M1F and M2M\]**.
+
+Each discussion was led by the first author with a note-taker. The project's purpose was explained, and the informed consent form, translated into Luganda, was read aloud and signed by every participant before the discussion began **\[to confirm: parental consent and assent for the participants aged 15–17\]**. The group agreed ground rules: one person speaks at a time, there are no right or wrong answers, and participants need not agree with each other. Participants first listed the gendered products used in their homes and then discussed their preferences, barriers to access, where they obtain the products and what they cost. Discussions closed with a reassurance of confidentiality and a token of appreciation. The notes were summarised by group in a matrix of products, preferences, barriers, sources and prices, and names were removed before analysis.
 
 ### 2.7 Data quality and ethics
 
@@ -221,7 +227,27 @@ In Nakaseke, where enumerators recorded comments on food access, pests and disea
 
 ### 3.9 Focus group discussions: access to basic needs and gendered products
 
-Purchasing choices were shaped mainly by affordability, household responsibilities and community expectations. Nakaseke participants strongly preferred low-cost products because of limited disposable income and competing needs. Government health facilities were preferred for family planning because they were reliable, affordable and offered professional guidance, while markets and hawkers were preferred for clothing, cosmetics and personal-care products for their flexible prices and variety. Mukono participants showed similar patterns but placed more weight on service quality, with choices also influenced by age, religion, marital status and family size. Access to gendered products therefore depends not only on availability but on income constraints, knowledge, cultural norms and expected service quality. Participants in both districts named limited access to credit and farm inputs as key barriers to a better livelihood. **\[Ezra: add FGD findings on what a decent life means and on income barriers, with quotes.\]**
+**\[Results below are from N1F, the women's group in Nakaseke; findings for N2M, M1F and M2M to add when their notes are available.\]**
+
+**Products used.** Women named menstrual pads, family planning methods, clothes, cosmetics and body accessories such as earrings, bracelets, bangles and underwear as the gendered products they use at home. Awareness was uneven. Two of the five older women could not identify contraceptives or sanitary items such as intrauterine devices (IUDs) and menstrual pads, and no participant could identify a tampon. Contraceptives, including IUDs, were used, but views of them were mixed or negative because of perceived health risks.
+
+**Preferences.** Low cost was the overriding criterion. Choices also depended on age, body size and, for older women, how easily a product could be obtained. Privacy mattered most for sanitary pads. Clothing choices were shaped by cultural taboos, the wish to dress decently, religion, how the community would see them and marital status, while age, social events and religion guided the choice of cosmetics.
+
+**Barriers.** Participants linked access above all to household size and the rising cost of living: with many dependants, women weighed the cost before using some products, especially contraceptives. Distance to shops added to the cost, and lack of information limited what women knew was available.
+
+**Sources and costs.** Products were bought from local shops, community clinics, distant pharmacies and travelling hawkers, who supplied most cosmetics and clothes, and all items could be found in the weekly markets, although these were far away. For family planning, women preferred the larger but more distant government health centres, because staff there explained how to use the method, which community clinics did not. Contraceptives other than condoms were considered expensive (Table 5).
+
+**Table 5.** Prices of gendered products reported in the N1F focus group, Nakaseke (UGX)
+
+| Product | Reported price |
+| --- | --- |
+| Contraceptive pills | 100 per pill |
+| Menstrual pads | 2,500–3,500 per packet |
+| Condoms | 500–1,000, or free from government facilities |
+| Cosmetics kit | 5,000–10,000 |
+| Women's clothing | from 3,000 in weekly markets |
+
+These accounts add to the survey results. In households that reach only a fifth of a living income, even low-cost personal products compete with food and school fees, and the cost of travel to distant markets and health centres comes on top of the price itself. **\[Ezra: v1 stated that Mukono participants placed more weight on service quality and that participants in both districts named credit and farm inputs as key barriers; this is not in the FGD report. Add with its source or remove.\]**
 
 ## 4 Discussion
 
