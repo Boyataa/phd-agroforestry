@@ -31,3 +31,9 @@ Result (net central): median 4.00M / 2.56M → 19.8% / 12.9% of benchmark (gross
 - Ezra: shortfall from 749 planned to 600 was budget and time; 300 per district, ~150 per sub-county. Achieved margin of error ±5.6% Mukono, ±5.5% Nakaseke (95%, FPC); stated in text.
 - References added: Cochran 1977; UBOS 2017 (full reference still to add).
 - Numbers reproduced by `scripts/obj1/sample_size.py`; section text in `paper1/section-2.2-sampling.md`.
+
+## Paper 1 FGD sections rewritten (2026-10-19, draft v2 rev 46)
+- Source: Ezra's FGD report (docx, APCCO project). Only N1F (Nakaseke women, 9 Jan 2026) has findings; N2M, M1F, M2M tables and "Activity 2" are empty. Ezra: use N1F.
+- 2.6 now gives group composition (ages N1F 18–60, M1F 15–56, N2M 17–30, M2M 20–71), consent in Luganda, ground rules, analysis matrix; names removed.
+- 3.9 rewritten from N1F with Table 5 (prices). v1 claims (Mukono service quality; credit and farm inputs as barriers) not in the report → flagged for Ezra; abstract FGD sentence flagged [to confirm].
+- Open: dates of N2M/M1F/M2M; participant selection; consent/assent for ages 15–17; N2M "older men" label vs ages 17–30; APCCO in full; Activity 2 topics.
